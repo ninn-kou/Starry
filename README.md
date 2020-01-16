@@ -99,4 +99,5 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 				Some ideas: !!!Add more details of each repo.
 							Update README.md
 							!!!Find more interesting and useful repos.
+	17/01/2020	Add more descriptions and set up "awesome" as a single category.
  Log -->
