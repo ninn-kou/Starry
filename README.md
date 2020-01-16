@@ -5,17 +5,19 @@ Here is a list to help you find some interesting, significant and maybe *cute* p
 
 The reasons why I choose these repositories are not only their ✨high stars💫 but also meaningful to me, who is a beginner in Computer Science. I hope it could be beneficial to you as well.
 
+## 😎 Awesome
+- ### [awesome](https://github.com/sindresorhus/awesome)
+	>😎 Awesome lists about all kinds of interesting topics.
+- ### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
+	>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+- ### [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)
+	>Awesome Japanese learning resource.
+
 ## CS Resources
 - ### [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)
 	>500 line or less 中文翻译计划。
 - ### [500lines](https://github.com/aosabook/500lines)
 	>500 Lines or Less.
-- ### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
-	>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-- ### [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)
-	>Awesome Japanese learning resource.
-- ### [awesome](https://github.com/sindresorhus/awesome)
-	>😎 Awesome lists about all kinds of interesting topics.
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
 	>A list of resources in different fields of Computer Science (multiple languages).
 - ### [computer-science](https://github.com/ossu/computer-science)
