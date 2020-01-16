@@ -13,6 +13,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
 - ### [computer-science](https://github.com/ossu/computer-science)
 - ### [leetcode](https://github.com/begeekmyfriend/leetcode)
+- ### [Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird)
 - ### [manim](https://github.com/3b1b/manim)
 
 ## Programming Notes & Tutorials
@@ -21,6 +22,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - ### [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - ### [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 - ### [learn-regex](https://github.com/ziishaned/learn-regex)
+- ### [linux-command](https://github.com/jaywcjlove/linux-command)
+- ### [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)
 - ### [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - ### [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 - ### [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
