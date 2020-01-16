@@ -5,6 +5,8 @@ Here is a list to help you find some interesting, significant and maybe *cute* p
 
 The reasons why I choose these repositories are not only their ✨high stars💫 but also meaningful to me, who is a beginner in Computer Science. I hope it could be beneficial to you as well.
 
+*The REPO which has a "👍🏻" following its name means this repo might be an elite.*
+
 ## Awesome
 - ### [awesome](https://github.com/sindresorhus/awesome) 👍🏻
 	>😎 Awesome lists about all kinds of interesting topics.
