@@ -12,6 +12,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>500 Lines or Less.
 - ### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
 	>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+- ### [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)
+	>Awesome Japanese learning resource.
 - ### [awesome](https://github.com/sindresorhus/awesome)
 	>😎 Awesome lists about all kinds of interesting topics.
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
