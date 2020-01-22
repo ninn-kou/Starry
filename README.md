@@ -86,6 +86,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ## Others
 - ### [badges](https://github.com/boennemann/badges)
 	>🎴 Readme Badges – Gotta catch 'em all.
+- ### [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+	>GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - ### [gold-miner](https://github.com/xitu/gold-miner)
 	>🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - ### [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 👍🏻
