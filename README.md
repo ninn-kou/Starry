@@ -30,12 +30,16 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>500 Lines or Less.
 - ### [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)
 	>500 line or less 中文翻译计划。
+- ### [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+	>🎆Interactive Online Platform that Visualizes Algorithms from Code.
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
 	>A list of resources in different fields of Computer Science (multiple languages).
 - ### [computer-science](https://github.com/ossu/computer-science) 👍🏻
 	>🎓 Path to a free self-taught education in Computer Science!
 - ### [leetcode](https://github.com/begeekmyfriend/leetcode)
 	>LeetCode in pure C.
+- ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+	>Demonstrate all the questions on LeetCode in the form of animation./用动画的形式呈现解LeetCode题目的思路。
 - ### [Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) 👍🏻
 	>Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm.
 - ### [manim](https://github.com/3b1b/manim)
