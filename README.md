@@ -40,12 +40,20 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>LeetCode in pure C.
 - ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 	>Demonstrate all the questions on LeetCode in the form of animation./用动画的形式呈现解LeetCode题目的思路。
+- ### [linux](https://github.com/torvalds/linux) 👍🏻
+	>Linux kernel source tree.
 - ### [Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) 👍🏻
 	>Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm.
 - ### [manim](https://github.com/3b1b/manim)
 	>Animation engine for explanatory math videos.
+- ### [omi](https://github.com/Tencent/omi)
+	>Front End Cross-Frameworks Framework - 前端跨框架跨平台框架.
+- ### [swift](https://github.com/apple/swift) 👍🏻
+	>The Swift Programming Language.
 
 ## Programming Notes & Tutorials
+- ### [art-of-readme](https://github.com/noffle/art-of-readme)
+	>💌 Things I've learned about writing good READMEs.
 - ### [book](https://github.com/qyuhen/book)
 	>学习笔记。
 - ### [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 👍🏻
@@ -64,6 +72,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Curated list of project-based tutorials.
 - ### [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 	>Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
+- ### [textgenrnn](https://github.com/minimaxir/textgenrnn)
+	>Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - ### [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 	>本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售。
 - ### [wtfpython](https://github.com/satwikkansal/wtfpython) 👍🏻
@@ -90,7 +100,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ## Others
 - ### [badges](https://github.com/boennemann/badges)
 	>🎴 Readme Badges – Gotta catch 'em all.
-- ### [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+- ### [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) 👍🏻
 	>GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - ### [gold-miner](https://github.com/xitu/gold-miner)
 	>🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
@@ -98,6 +108,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目。
 - ### [logoly](https://github.com/bestony/logoly)
 	>A Pornhub Flavour Logo Generator.
+- ### [nocode](https://github.com/kelseyhightower/nocode)
+	>The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - ### [OpenEmu](https://github.com/OpenEmu/OpenEmu)
 	>🕹 Retro video game emulation for macOS.
 - ### [zdog](https://github.com/metafizzy/zdog)
