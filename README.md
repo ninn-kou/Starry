@@ -48,6 +48,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Animation engine for explanatory math videos.
 - ### [omi](https://github.com/Tencent/omi)
 	>Front End Cross-Frameworks Framework - 前端跨框架跨平台框架.
+- ### [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+	>Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - ### [swift](https://github.com/apple/swift) 👍🏻
 	>The Swift Programming Language.
 
