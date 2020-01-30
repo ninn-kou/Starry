@@ -52,6 +52,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - ### [swift](https://github.com/apple/swift) 👍🏻
 	>The Swift Programming Language.
+- ### [taichi](https://github.com/taichi-dev/taichi)
+	>aichi programming language by [Yuanming Hu](https://github.com/yuanming-hu).
 
 ## Programming Notes & Tutorials
 - ### [art-of-readme](https://github.com/noffle/art-of-readme)
