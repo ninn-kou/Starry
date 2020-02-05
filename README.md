@@ -16,6 +16,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 - ### [awesome-java](https://github.com/akullpp/awesome-java)
 	>A curated list of awesome frameworks, libraries and software for the Java programming language.
+- ### [awesome-math](https://github.com/rossant/awesome-math)
+	>A curated list of awesome mathematics resources.
 - ### [awesome-python](https://github.com/vinta/awesome-python)
 	>A curated list of awesome Python frameworks, libraries, software and resources.
 - ### [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
