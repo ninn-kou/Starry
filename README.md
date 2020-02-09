@@ -108,6 +108,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ## Others
 - ### [badges](https://github.com/boennemann/badges)
 	>🎴 Readme Badges – Gotta catch 'em all.
+- ### [dongbei](https://github.com/zhanyong-wan/dongbei)
+	>东北方言编程语言。
 - ### [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) 👍🏻
 	>GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - ### [gold-miner](https://github.com/xitu/gold-miner)
