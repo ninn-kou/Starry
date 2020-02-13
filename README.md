@@ -38,6 +38,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>A list of resources in different fields of Computer Science (multiple languages).
 - ### [computer-science](https://github.com/ossu/computer-science) 👍🏻
 	>🎓 Path to a free self-taught education in Computer Science!
+- ### [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 👍🏻
+	>📚 Freely available programming books.
+- ### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+	>📚 免费的计算机编程类中文书籍，欢迎投稿。
 - ### [leetcode](https://github.com/begeekmyfriend/leetcode)
 	>LeetCode in pure C.
 - ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
