@@ -74,6 +74,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>A complete computer science study plan to become a software engineer.
 - ### [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 	>算法学习笔记。
+- ### [learn_python3_spider](https://github.com/wistbean/learn_python3_spider)
+	>python爬虫教程系列，从0到1学习python爬虫。
 - ### [learn-regex](https://github.com/ziishaned/learn-regex)
 	>Learn regex the easy way.
 - ### [linux-command](https://github.com/jaywcjlove/linux-command)
