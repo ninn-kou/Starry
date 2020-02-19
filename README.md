@@ -1,4 +1,5 @@
 # Starry
+
 😆 *What is your favourite Repository on GitHub?*
 
 Here is a list to help you find some interesting, significant and maybe *cute* projects. 
@@ -8,6 +9,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 *The REPO which has a "👍🏻" following its name means this repo might be an elite.*
 
 ## Awesome
+
 - ### [awesome](https://github.com/sindresorhus/awesome) 👍🏻
 	>😎 Awesome lists about all kinds of interesting topics.
 - ### [awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
@@ -28,6 +30,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Awesome Japanese learning resource.
 
 ## CS Resources
+
 - ### [500lines](https://github.com/aosabook/500lines) 👍🏻
 	>500 Lines or Less.
 - ### [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)
@@ -38,6 +41,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>A list of resources in different fields of Computer Science (multiple languages).
 - ### [computer-science](https://github.com/ossu/computer-science) 👍🏻
 	>🎓 Path to a free self-taught education in Computer Science!
+- ### [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) 👍🏻
+	>Computer Vision Basics in Microsoft Excel (using just formulas).
 - ### [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 👍🏻
 	>📚 Freely available programming books.
 - ### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -64,6 +69,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>aichi programming language by [Yuanming Hu](https://github.com/yuanming-hu).
 
 ## Programming Notes & Tutorials
+
 - ### [art-of-readme](https://github.com/noffle/art-of-readme)
 	>💌 Things I've learned about writing good READMEs.
 - ### [book](https://github.com/qyuhen/book)
@@ -98,6 +104,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>wtfpython的中文翻译。
 
 ## Development Tools
+
 - ### [brew](https://github.com/Homebrew/brew) 👍🏻
 	>🍺 The missing package manager for macOS (or Linux).
 - ### [httprunner](https://github.com/httprunner/httprunner)
@@ -114,6 +121,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>High performance, multi-platform VNC client and server
 
 ## Others
+
 - ### [badges](https://github.com/boennemann/badges)
 	>🎴 Readme Badges – Gotta catch 'em all.
 - ### [dongbei](https://github.com/zhanyong-wan/dongbei)
@@ -134,6 +142,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Flat, round, designer-friendly pseudo-3D engine for canvas & SVG.
 
 ## Non-Programming
+
 - ### [996.ICU](https://github.com/996icu/996.ICU)
 	>Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - ### [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
