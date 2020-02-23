@@ -119,8 +119,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Magnificent app which corrects your previous console command.
 - ### [tigervnc](https://github.com/TigerVNC/tigervnc)
 	>High performance, multi-platform VNC client and server.
-- ### [youtube-dl](https://github.com/ytdl-org/youtube-dl) 👍🏻
-	>Command-line program to download videos from YouTube.com and other video sites.
 
 ## Others
 
@@ -140,6 +138,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - ### [OpenEmu](https://github.com/OpenEmu/OpenEmu)
 	>🕹 Retro video game emulation for macOS.
+- ### [youtube-dl](https://github.com/ytdl-org/youtube-dl) 👍🏻
+	>Command-line program to download videos from YouTube.com and other video sites.
 - ### [zdog](https://github.com/metafizzy/zdog)
 	>Flat, round, designer-friendly pseudo-3D engine for canvas & SVG.
 
