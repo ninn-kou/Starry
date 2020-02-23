@@ -118,7 +118,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - ### [thefuck](https://github.com/nvbn/thefuck)
 	>Magnificent app which corrects your previous console command.
 - ### [tigervnc](https://github.com/TigerVNC/tigervnc)
-	>High performance, multi-platform VNC client and server
+	>High performance, multi-platform VNC client and server.
+- ### [youtube-dl](https://github.com/ytdl-org/youtube-dl) 👍🏻
+	>Command-line program to download videos from YouTube.com and other video sites.
 
 ## Others
 
