@@ -16,6 +16,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Continuing the development of awesome-c list on GitHub.
 - ### [awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
 	>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+- ### [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) 👍🏻
+	>An awesome list of events and fellowship opportunities for Computer Science students.
 - ### [awesome-java](https://github.com/akullpp/awesome-java)
 	>A curated list of awesome frameworks, libraries and software for the Java programming language.
 - ### [awesome-math](https://github.com/rossant/awesome-math)
