@@ -63,6 +63,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Front End Cross-Frameworks Framework - 前端跨框架跨平台框架.
 - ### [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 	>📱 Collaborative List of Open-Source iOS Apps.
+- ### [Python](https://github.com/TheAlgorithms/Python) 👍🏻
+	>All Algorithms implemented in Python.
 - ### [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 	>Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - ### [swift](https://github.com/apple/swift) 👍🏻
@@ -94,6 +96,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - ### [project-based-learning](https://github.com/tuvtran/project-based-learning) 👍🏻
 	>Curated list of project-based tutorials.
+- ### [Python](https://github.com/TwoWater/Python)
+	>最良心的 Python 教程。
 - ### [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 	>Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
 - ### [textgenrnn](https://github.com/minimaxir/textgenrnn)
