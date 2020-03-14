@@ -10,6 +10,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## Awesome
 
+- ### [MATH54](https://github.com/lin-lin/MATH54)
+	>This is a repository for the UC Berkeley course Math 54: Linear Algebra & Differential Equations in Spring 2020.
 - ### [awesome](https://github.com/sindresorhus/awesome) 👍🏻
 	>😎 Awesome lists about all kinds of interesting topics.
 - ### [awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
