@@ -82,8 +82,12 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>学习笔记。
 - ### [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 👍🏻
 	>🤓 Build your own (insert technology here).
+- ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+	>Chinese copywriting guidelines for better written communication／中文文案排版指北
 - ### [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 	>A complete computer science study plan to become a software engineer.
+- ### [CS-Notes](https://github.com/CyC2018/CS-Notes) 👍🏻
+	>📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++。
 - ### [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 	>算法学习笔记。
 - ### [learn_python3_spider](https://github.com/wistbean/learn_python3_spider)
