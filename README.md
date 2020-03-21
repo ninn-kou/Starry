@@ -100,6 +100,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>《Java 程序员眼中的 Linux》
 - ### [markdown-here](https://github.com/adam-p/markdown-here)
 	>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- ### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+	>《简单粗暴 LaTeX》源码 | A LaTeX handbook to help Chinese LaTeX learners.
 - ### [project-based-learning](https://github.com/tuvtran/project-based-learning) 👍🏻
 	>Curated list of project-based tutorials.
 - ### [Python](https://github.com/TwoWater/Python)
