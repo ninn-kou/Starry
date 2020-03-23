@@ -108,6 +108,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>最良心的 Python 教程。
 - ### [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 	>Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
+- ### [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
+	>TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS https://teachyourselfcs.com/
 - ### [textgenrnn](https://github.com/minimaxir/textgenrnn)
 	>Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - ### [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
