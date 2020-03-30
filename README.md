@@ -39,7 +39,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>500 Lines or Less.
 - ### [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)
 	>500 line or less 中文翻译计划。
-- ### [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- ### [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 👍🏻
 	>🎆Interactive Online Platform that Visualizes Algorithms from Code.
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
 	>A list of resources in different fields of Computer Science (multiple languages).
@@ -129,6 +129,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	>Over 200 terminal color schemes/themes for iTerm/iTerm2.
 - ### [iTerm2](https://github.com/gnachman/iTerm2) 👍🏻
 	>iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+- ### [linguist](https://github.com/github/linguist)
+	>Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - ### [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	>🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 - ### [thefuck](https://github.com/nvbn/thefuck)
