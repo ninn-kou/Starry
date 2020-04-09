@@ -88,6 +88,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> A complete computer science study plan to become a software engineer.
 - ### [CS-Notes](https://github.com/CyC2018/CS-Notes) 👍🏻
 	> 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++。
+- ### [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 👍🏻
+	> 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 - ### [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)
 	> 算法学习笔记。
 - ### [learn_python3_spider](https://github.com/wistbean/learn_python3_spider)
