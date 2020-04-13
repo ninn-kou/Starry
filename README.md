@@ -51,6 +51,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> 📚 Freely available programming books.
 - ### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 	> 📚 免费的计算机编程类中文书籍，欢迎投稿。
+- ### [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+	> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - ### [leetcode](https://github.com/begeekmyfriend/leetcode)
 	> LeetCode in pure C.
 - ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
@@ -114,6 +116,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS https://teachyourselfcs.com/
 - ### [textgenrnn](https://github.com/minimaxir/textgenrnn)
 	> Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+- ### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+	> Master the command line, in one page.
 - ### [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 	> 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售。
 - ### [wtfpython](https://github.com/satwikkansal/wtfpython) 👍🏻
