@@ -55,6 +55,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - ### [leetcode](https://github.com/begeekmyfriend/leetcode)
 	> LeetCode in pure C.
+- ### [leetcode](https://github.com/azl397985856/leetcode) 👍🏻
+	> LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) http://lucifer.ren/leetcode/
 - ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 	> Demonstrate all the questions on LeetCode in the form of animation./用动画的形式呈现解LeetCode题目的思路。
 - ### [linux](https://github.com/torvalds/linux) 👍🏻
