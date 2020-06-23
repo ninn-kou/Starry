@@ -41,6 +41,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> 500 line or less 中文翻译计划。
 - ### [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 👍🏻
 	> 🎆Interactive Online Platform that Visualizes Algorithms from Code.
+- ### [app-ideas](https://github.com/florinpop17/app-ideas)
+	> A Collection of application ideas which can be used to improve your coding skills.
 - ### [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
 	> A list of resources in different fields of Computer Science (multiple languages).
 - ### [computer-science](https://github.com/ossu/computer-science) 👍🏻
@@ -82,6 +84,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 - ### [art-of-readme](https://github.com/noffle/art-of-readme)
 	> 💌 Things I've learned about writing good READMEs.
+- ### [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+	> 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - ### [book](https://github.com/qyuhen/book)
 	> 学习笔记。
 - ### [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) 👍🏻
@@ -145,6 +149,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> Magnificent app which corrects your previous console command.
 - ### [tigervnc](https://github.com/TigerVNC/tigervnc)
 	> High performance, multi-platform VNC client and server.
+- ### [vscode](https://github.com/microsoft/vscode)
+	> Visual Studio Code https://code.visualstudio.com
 
 ## Others
 
