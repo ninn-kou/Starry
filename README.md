@@ -116,6 +116,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> Curated list of project-based tutorials.
 - ### [Python](https://github.com/TwoWater/Python)
 	> 最良心的 Python 教程。
+- ### [practical-python](https://github.com/dabeaz-course/practical-python)
+	> The material you see here is the heart of an instructor-led Python training course used for corporate training and professional development. It has been in continual development since 2007 and battle tested in real-world classrooms. Usually, it's taught in-person over the span of three or four days--requiring approximately 25-35 hours of intense work. This includes the completion of approximately 130 hands-on coding exercises.
 - ### [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 	> Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
 - ### [TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
