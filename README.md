@@ -149,6 +149,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 	> Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - ### [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 	> 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
+- ### [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - ### [thefuck](https://github.com/nvbn/thefuck)
 	> Magnificent app which corrects your previous console command.
 - ### [tigervnc](https://github.com/TigerVNC/tigervnc)
