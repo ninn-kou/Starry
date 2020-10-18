@@ -139,6 +139,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 - ### [brew](https://github.com/Homebrew/brew) 👍🏻
 	> 🍺 The missing package manager for macOS (or Linux).
+- ### [drawio](https://github.com/jgraph/drawio)
 - ### [drawio-desktop](https://github.com/jgraph/drawio-desktop)
 - ### [httprunner](https://github.com/httprunner/httprunner)
 	> One-stop solution for HTTP(S) testing.
