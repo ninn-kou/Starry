@@ -10,6 +10,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## Table of Contents
 
+* [🆘 Recently Added, Need to be Classified](#recently-added-need-to-be-classified)
 * [Mathematics](#mathematics)
   * [Courses and Resources](#courses-and-resources)
   * [LaTeX](#latex)
@@ -31,6 +32,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [Tools and Applications](#tools-and-applications)
 * [Discovering The News](#discovering-the-news)
 * [CS Irrelevant Repositories](#cs-irrelevant-repositories)
+
+## Recently Added, Need to be Classified
+
+- [**gitignore**](https://github.com/github/gitignore) <br> A collection of useful .gitignore templates.
 
 ## Mathematics
 
