@@ -25,7 +25,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
     * [Python](#python)
     * [Other Programming Languages ⭐️](#other-programming-languages)
   * [Regex](#regex)
-  * [Learning via Build Projects ⭐️](#learning-via-build-projects-%EF%B8%8F)
+  * [Learning via Projects Building ⭐️](#learning-via-projects-building-%EF%B8%8F)
   * [Tutorials, Books, Learning Notes and Other Resources ⭐️](#tutorials-books-learning-notes-and-other-resources-%EF%B8%8F)
 * [Open\-source Software](#open-source-software)
 * [Tools and Applications](#tools-and-applications)
@@ -116,7 +116,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 - [**learn-regex**](https://github.com/ziishaned/learn-regex) <br> Learn regex the easy way.
 
-### Learning via Build Projects ⭐️
+### Learning via Projects Building ⭐️
 
 - [**500LineorLess_CN**](https://github.com/HT524/500LineorLess_CN) <br> 500 line or less 中文翻译计划。
 - [**500lines**](https://github.com/aosabook/500lines) <br> 500 Lines or Less.
