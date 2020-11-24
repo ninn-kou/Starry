@@ -10,32 +10,37 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## Table of Contents
 
-* [🆘 Recently Added, Need to be Classified](#recently-added-need-to-be-classified)
-* [Mathematics](#mathematics)
-  * [Courses and Resources](#courses-and-resources)
-  * [LaTeX](#latex)
-* [Computer Science](#computer-science)
-  * [Artificial Intelligence](#artificial-intelligence)
-  * [Data Structures and Algorithms ⭐️](#data-structures-and-algorithms-%EF%B8%8F)
-  * [Database Systems](#database-systems)
-  * [Git, Command Line and Linux](#git-command-line-and-linux)
-  * [Markdown](#markdown)
-  * [Programming Languages](#programming-languages-%EF%B8%8F)
-    * [C](#c)
-    * [Java](#java)
-    * [Python](#python)
-    * [Other Programming Languages ⭐️](#other-programming-languages)
-  * [Regex](#regex)
-  * [Learning via Projects Building ⭐️](#learning-via-projects-building-%EF%B8%8F)
-  * [Tutorials, Books, Learning Notes and Other Resources ⭐️](#tutorials-books-learning-notes-and-other-resources-%EF%B8%8F)
-* [Open\-source Software](#open-source-software)
-* [Tools and Applications](#tools-and-applications)
-* [Discovering The News](#discovering-the-news)
-* [CS Irrelevant Repositories](#cs-irrelevant-repositories)
+* [Starry](#starry)
+  * [Table of Contents](#table-of-contents)
+  * [🆘 Recently Added, Need to be Classified](#recently-added-need-to-be-classified)
+  * [Mathematics](#mathematics)
+    * [Courses and Resources](#courses-and-resources)
+    * [LaTeX](#latex)
+  * [Computer Science](#computer-science)
+    * [Artificial Intelligence](#artificial-intelligence)
+    * [Data Structures and Algorithms ⭐️](#data-structures-and-algorithms-%EF%B8%8F)
+    * [Database Systems](#database-systems)
+    * [Git, Command Line and Linux](#git-command-line-and-linux)
+    * [Markdown](#markdown)
+    * [Pure Programming Languages ⭐️](#pure-programming-languages-%EF%B8%8F)
+      * [C](#c)
+      * [Java](#java)
+      * [Python](#python)
+      * [Other Programming Languages](#other-programming-languages)
+    * [Regex](#regex)
+    * [Learning via Projects Building ⭐️](#learning-via-projects-building-%EF%B8%8F)
+    * [Tutorials, Books, Learning Notes and Other Resources ⭐️](#tutorials-books-learning-notes-and-other-resources-%EF%B8%8F)
+      * [Learning Notes](#learning-notes)
+      * [Books Collection](#books-collection)
+      * [Self\-learning Guidelines](#self-learning-guidelines)
+  * [Open\-source Software](#open-source-software)
+  * [Tools and Applications](#tools-and-applications)
+  * [Discovering The News](#discovering-the-news)
+  * [CS Irrelevant Repositories](#cs-irrelevant-repositories)
 
 ## Recently Added, Need to be Classified
 
-- [**gitignore**](https://github.com/github/gitignore) <br> A collection of useful .gitignore templates.
+24 Nov - Add any new stared repository here!
 
 ## Mathematics
 
@@ -72,6 +77,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**leetcode**](https://github.com/begeekmyfriend/leetcode) <br> LeetCode in pure C.
 - [**LeetCodeAnimation**](https://github.com/MisterBooo/LeetCodeAnimation) <br> Demonstrate all the questions on LeetCode in the form of animation./用动画的形式呈现解LeetCode题目的思路。
 - [**Python**](https://github.com/TheAlgorithms/Python) <br> All Algorithms implemented in Python.
+- [**The-Art-Of-Programming-By-July**](https://github.com/julycoding/The-Art-Of-Programming-By-July) <br> 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售。
 
 ### Database Systems
 
@@ -79,6 +85,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### Git, Command Line and Linux
 
+- [**gitignore**](https://github.com/github/gitignore) <br> A collection of useful .gitignore templates.
 - [**linux-command**](https://github.com/jaywcjlove/linux-command) <br> Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
 - [**Linux-Tutorial**](https://github.com/judasn/Linux-Tutorial) <br> 《Java 程序员眼中的 Linux》
 - [**linux**](https://github.com/torvalds/linux) <br> Linux kernel source tree.
@@ -91,7 +98,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**awesome-markdown**](https://github.com/BubuAnabelas/awesome-markdown) <br> 📝 Delightful Markdown stuff.
 - [**markdown-here**](https://github.com/adam-p/markdown-here) <br> Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
-### Programming Languages ⭐️
+### Pure Programming Languages ⭐️
 
 #### C
 
@@ -133,17 +140,28 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### Tutorials, Books, Learning Notes and Other Resources ⭐️
 
-- [**awesome-computer-science-opportunities**](https://github.com/anu0012/awesome-computer-science-opportunities) <br> An awesome list of events and fellowship opportunities for Computer Science students.
+#### Learning Notes
+
 - [**book**](https://github.com/qyuhen/book) <br> 学习笔记。
-- [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) <br> Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) <br> Chinese copywriting guidelines for better written communication／中文文案排版指北.
+- [**Connor McLeod**](https://github.com/con-mcleod) <br> A UNSW EECS student's GitHub page.
+- [**CS-Notes**](https://github.com/CyC2018/CS-Notes) <br> 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++。
+- [**Hillary Chan**](https://github.com/hillaryychan) <br> A UNSW student's GitHub page.
+- [**Luka Kerr**](https://github.com/lukakerr) <br> A UNSW software engineering student's GitHub page.
+- [**YAWEN LUO**](https://github.com/YawenRiva) <br> A UNSW student's GitHub page.
+
+#### Books Collection
+
+- [**free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN) <br> 📚 免费的计算机编程类中文书籍，欢迎投稿。
+- [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) <br> 📚 Freely available programming books.
+
+#### Self-learning Guidelines
+
+- [**awesome-computer-science-opportunities**](https://github.com/anu0012/awesome-computer-science-opportunities) <br> An awesome list of events and fellowship opportunities for Computer Science students.
 - [**coding-interview-university**](https://github.com/jwasham/coding-interview-university) <br> A complete computer science study plan to become a software engineer.
 - [**Computer-Science-Resources**](https://github.com/the-akira/Computer-Science-Resources) <br> A list of resources in different fields of Computer Science (multiple languages).
 - [**computer-science**](https://github.com/ossu/computer-science) <br> 🎓 Path to a free self-taught education in Computer Science!
-- [**CS-Notes**](https://github.com/CyC2018/CS-Notes) <br> 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++。
-- [**free-programming-books-zh_CN**](https://github.com/justjavac/free-programming-books-zh_CN) <br> 📚 免费的计算机编程类中文书籍，欢迎投稿。
-- [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) <br> 📚 Freely available programming books.
 - [**TeachYourselfCS-CN**](https://github.com/keithnull/TeachYourselfCS-CN) <br> TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS <https://teachyourselfcs.com/>
-- [**The-Art-Of-Programming-By-July**](https://github.com/julycoding/The-Art-Of-Programming-By-July) <br> 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售。
 
 ## Open-source Software
 
