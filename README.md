@@ -115,6 +115,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**learn_python3_spider**](https://github.com/wistbean/learn_python3_spider) <br> python爬虫教程系列，从0到1学习python爬虫。
 - [**practical-python**](https://github.com/dabeaz-course/practical-python) <br> [Online](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) The heart of an instructor-led Python training course used for corporate training and professional development.
 - [**Python**](https://github.com/TwoWater/Python) <br> 最良心的 Python 教程。
+- [**python-guide**](https://github.com/realpython/python-guide) <br> [Web Page](https://docs.python-guide.org/) Python best practices guidebook, written for humans.
 - [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn) <br> wtfpython的中文翻译。
 - [**wtfpython**](https://github.com/satwikkansal/wtfpython) <br> If you think you know Python, think once more!
 
