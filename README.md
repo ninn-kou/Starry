@@ -170,6 +170,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**drawio-desktop**](https://github.com/jgraph/drawio-desktop) <br>
 - [**drawio**](https://github.com/jgraph/drawio) <br>
 - [**iTerm2**](https://github.com/gnachman/iTerm2) <br> iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+- [**jupyter**](https://github.com/jupyter/jupyter) <br> [GitHub Wiki](https://github.com/jupyter/jupyter/wiki) [Web Page](https://jupyter.org) Jupyter metapackage for installation, docs and chat.
 - [**omi**](https://github.com/Tencent/omi) <br> Front End Cross-Frameworks Framework - 前端跨框架跨平台框架.
 - [**OpenEmu**](https://github.com/OpenEmu/OpenEmu) <br> 🕹 Retro video game emulation for macOS.
 - [**tigervnc**](https://github.com/TigerVNC/tigervnc) <br> High performance, multi-platform VNC client and server.
