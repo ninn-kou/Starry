@@ -33,6 +33,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
       * [Learning Notes](#learning-notes)
       * [Books Collection](#books-collection)
       * [Self\-learning Guidelines](#self-learning-guidelines)
+      * [Styles](#Styles)
   * [Open\-source Software](#open-source-software)
   * [Tools and Applications](#tools-and-applications)
   * [Discovering The News](#discovering-the-news)
@@ -94,7 +95,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### Markdown
 
-- [**art-of-readme**](https://github.com/noffle/art-of-readme) <br> 💌 Things I've learned about writing good READMEs.
 - [**awesome-markdown**](https://github.com/BubuAnabelas/awesome-markdown) <br> 📝 Delightful Markdown stuff.
 - [**markdown-here**](https://github.com/adam-p/markdown-here) <br> Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
@@ -163,6 +163,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**Computer-Science-Resources**](https://github.com/the-akira/Computer-Science-Resources) <br> A list of resources in different fields of Computer Science (multiple languages).
 - [**computer-science**](https://github.com/ossu/computer-science) <br> 🎓 Path to a free self-taught education in Computer Science!
 - [**TeachYourselfCS-CN**](https://github.com/keithnull/TeachYourselfCS-CN) <br> TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS <https://teachyourselfcs.com/>
+
+#### Styles
+
+- [**art-of-readme**](https://github.com/noffle/art-of-readme) <br> 💌 Things I've learned about writing good READMEs.
+- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) <br> 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode.
 
 ## Open-source Software
 
