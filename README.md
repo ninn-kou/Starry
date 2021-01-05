@@ -186,6 +186,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 - [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) <br> Interactive Online Platform that Visualizes Algorithms from Code.
 - [**badges**](https://github.com/boennemann/badges) <br> 🎴 Readme Badges – Gotta catch 'em all.
+- [ComicBook](https://github.com/lossme/ComicBook) <br> 漫画爬虫、漫画下载工具、图集下载工具、漫画API，支持腾讯漫画、哔哩哔哩漫画、有妖气漫画、快看漫画、漫画柜等站点。
 - [**github-markdown-toc**](https://github.com/ekalinin/github-markdown-toc) <br> Easy TOC creation for GitHub README.md.
 - [**httprunner**](https://github.com/httprunner/httprunner) <br> One-stop solution for HTTP(S) testing.
 - [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
