@@ -144,11 +144,13 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 #### Learning Notes
 
 - [**book**](https://github.com/qyuhen/book) <br> 学习笔记。
+- [cam-notes](https://github.com/dalcde/cam-notes) <br> [Blog](http://dec41.user.srcf.net/) My Cambridge Lecture Notes.
 - [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) <br> Chinese copywriting guidelines for better written communication／中文文案排版指北.
 - [**Connor McLeod**](https://github.com/con-mcleod) <br> A UNSW EECS student's GitHub page.
 - [**CS-Notes**](https://github.com/CyC2018/CS-Notes) <br> 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++。
 - [**Hillary Chan**](https://github.com/hillaryychan) <br> A UNSW student's GitHub page.
 - [**Luka Kerr**](https://github.com/lukakerr) <br> A UNSW software engineering student's GitHub page.
+- [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) <br> Notes for MIT-Linear-Algebra.
 - [**YAWEN LUO**](https://github.com/YawenRiva) <br> A UNSW student's GitHub page.
 
 #### Books Collection
