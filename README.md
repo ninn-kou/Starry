@@ -70,7 +70,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ### Data Structures and Algorithms ⭐️
 
 - [**algorithm-pattern**](https://github.com/greyireland/algorithm-pattern) <br> 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [**C**](https://github.com/TheAlgorithms/C) <br> [Website](thealgorithms.github.io/c) Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+- [**C**](https://github.com/TheAlgorithms/C) <br> [Website](https://thealgorithms.github.io/C/) Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) <br> [GitBook](https://labuladong.gitbook.io/algo/) 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) <br> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [**Learn-Algorithms**](https://github.com/nonstriater/Learn-Algorithms) <br> 算法学习笔记。
