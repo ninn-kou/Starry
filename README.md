@@ -70,6 +70,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ### Data Structures and Algorithms ⭐️
 
 - [**algorithm-pattern**](https://github.com/greyireland/algorithm-pattern) <br> 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [**C**](https://github.com/TheAlgorithms/C) <br> [Website](thealgorithms.github.io/c) Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) <br> [GitBook](https://labuladong.gitbook.io/algo/) 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) <br> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [**Learn-Algorithms**](https://github.com/nonstriater/Learn-Algorithms) <br> 算法学习笔记。
@@ -138,6 +139,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**games**](https://github.com/leereilly/games) <br> A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [**open-source-ios-apps**](https://github.com/dkhamsing/open-source-ios-apps) <br> 📱 Collaborative List of Open-Source iOS Apps.
 - [**project-based-learning**](https://github.com/tuvtran/project-based-learning) <br> Curated list of project-based tutorials.
+- [**python-small-examples**](https://github.com/jackzhenguo/python-small-examples) <br> 告别枯燥，致力于打造 Python 实用小例子。
 
 ### Tutorials, Books, Learning Notes and Other Resources ⭐️
 
@@ -174,6 +176,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ## Open-source Software
 
 - [**brew**](https://github.com/Homebrew/brew) <br> 🍺 The missing package manager for macOS (or Linux).
+- [**deskreen**](https://github.com/pavlobu/deskreen) <br> Deskreen turns any device with a web browser into a secondary screen for your computer.
 - [**drawio-desktop**](https://github.com/jgraph/drawio-desktop) <br>
 - [**drawio**](https://github.com/jgraph/drawio) <br>
 - [**iTerm2**](https://github.com/gnachman/iTerm2) <br> iTerm2 is a terminal emulator for Mac OS X that does amazing things.
@@ -188,7 +191,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 - [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) <br> Interactive Online Platform that Visualizes Algorithms from Code.
 - [**badges**](https://github.com/boennemann/badges) <br> 🎴 Readme Badges – Gotta catch 'em all.
-- [ComicBook](https://github.com/lossme/ComicBook) <br> 漫画爬虫、漫画下载工具、图集下载工具、漫画API，支持腾讯漫画、哔哩哔哩漫画、有妖气漫画、快看漫画、漫画柜等站点。
+- [**ComicBook**](https://github.com/lossme/ComicBook) <br> 漫画爬虫、漫画下载工具、图集下载工具、漫画API，支持腾讯漫画、哔哩哔哩漫画、有妖气漫画、快看漫画、漫画柜等站点。
 - [**github-markdown-toc**](https://github.com/ekalinin/github-markdown-toc) <br> Easy TOC creation for GitHub README.md.
 - [**httprunner**](https://github.com/httprunner/httprunner) <br> One-stop solution for HTTP(S) testing.
 - [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
