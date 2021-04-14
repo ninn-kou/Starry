@@ -179,6 +179,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 - [**deskreen**](https://github.com/pavlobu/deskreen) <br> Deskreen turns any device with a web browser into a secondary screen for your computer.
 - [**drawio-desktop**](https://github.com/jgraph/drawio-desktop) <br>
 - [**drawio**](https://github.com/jgraph/drawio) <br>
+- [**FakeNewsNet**](https://github.com/KaiDMML/FakeNewsNet) <br> This is a dataset for fake news detection research Resources.
 - [**iTerm2**](https://github.com/gnachman/iTerm2) <br> iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [**jupyter**](https://github.com/jupyter/jupyter) <br> [GitHub Wiki](https://github.com/jupyter/jupyter/wiki) [Web Page](https://jupyter.org) Jupyter metapackage for installation, docs and chat.
 - [**omi**](https://github.com/Tencent/omi) <br> Front End Cross-Frameworks Framework - 前端跨框架跨平台框架.
