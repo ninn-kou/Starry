@@ -41,7 +41,26 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## Recently Added, Need to be Classified
 
-24 Nov - Add any new stared repository here!
+- [Cyberbrain](https://github.com/laike9m/Cyberbrain) <br> Python debugging, redefined.
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) <br> 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
+- [machine_learning_beginner](https://github.com/fengdu78/machine_learning_beginner) <br> 机器学习初学者公众号作品。
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) <br> 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
+- [Projects](https://github.com/karan/Projects) <br> 📃 A list of practical projects that anyone can solve in any programming language.
+- [Projects-Solutions](https://github.com/karan/Projects-Solutions) <br> 📟 Links to others' solutions to Projects <https://github.com/karan/Projects/>
+- [design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) <br> GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies.
+- [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) <br> Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+- [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) <br> Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020).
+- [os-tutorial](https://github.com/cfenollosa/os-tutorial) <br> How to create an OS from scratch.
+- [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) <br> A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [workadventure](https://github.com/thecodingmachine/workadventure) <br> A collaborative web application (virtual office) presented as a 16-bit RPG video game.
+- [vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) <br> 📐 Render LaTeX math equations in any Markdown file!
+- [game-programmer](https://github.com/miloyip/game-programmer) <br> A Study Path for Game Programmer.
+- [leetcode](https://github.com/soulmachine/leetcode) <br> LeetCode题解，151道题完整版。
+- [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code) <br> NLP-Conferences-Code (ACL、EMNL、NAACL、COLING、AAAI、IJCAI).
+- [WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course) <br> 温州大学《机器学习》课程资料（代码、课件等）。
+- [what-happens-when](https://github.com/alex/what-happens-when) <br> An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [flappy-fly-bird](https://github.com/jVirus/flappy-fly-bird) <br> 🐦 Flappy Bird reincarnation [Swift 5.3, GameplayKit, SpriteKit, iOS 12].
+- [si78c](https://github.com/loadzero/si78c) <br> si78c is a memory accurate reimplementation of Space Invaders in C.
 
 ## Mathematics
 
