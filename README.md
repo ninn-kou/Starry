@@ -61,6 +61,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [what-happens-when](https://github.com/alex/what-happens-when) <br> An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [flappy-fly-bird](https://github.com/jVirus/flappy-fly-bird) <br> 🐦 Flappy Bird reincarnation [Swift 5.3, GameplayKit, SpriteKit, iOS 12].
 * [si78c](https://github.com/loadzero/si78c) <br> si78c is a memory accurate reimplementation of Space Invaders in C.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) <br> Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 ## Mathematics
 
