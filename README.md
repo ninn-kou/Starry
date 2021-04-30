@@ -62,6 +62,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [flappy-fly-bird](https://github.com/jVirus/flappy-fly-bird) <br> 🐦 Flappy Bird reincarnation [Swift 5.3, GameplayKit, SpriteKit, iOS 12].
 * [si78c](https://github.com/loadzero/si78c) <br> si78c is a memory accurate reimplementation of Space Invaders in C.
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) <br> Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [algorithm-base](https://github.com/chefyuan/algorithm-base) <br> 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
+* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) <br> Free resources for learning Full Stack Web Development.
+* [photoprism](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
 
 ## Mathematics
 
