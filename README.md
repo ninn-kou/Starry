@@ -65,6 +65,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [algorithm-base](https://github.com/chefyuan/algorithm-base) <br> 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) <br> Free resources for learning Full Stack Web Development.
 * [photoprism](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
+* [black](https://github.com/psf/black) <br> The uncompromising Python code formatter.
+* [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) <br> 🎮  A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) <br> CSS is powerful, you can do a lot of things without JS.
 
 ## Mathematics
 
