@@ -68,6 +68,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [black](https://github.com/psf/black) <br> The uncompromising Python code formatter.
 * [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) <br> 🎮  A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) <br> CSS is powerful, you can do a lot of things without JS.
+* [leetcode](https://github.com/doocs/leetcode) <br> 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) <br> List of Computer Science courses with video lectures.
+* [basic-computer-games](https://github.com/coding-horror/basic-computer-games) <br> An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages.
 
 ## Mathematics
 
