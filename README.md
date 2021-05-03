@@ -71,6 +71,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [leetcode](https://github.com/doocs/leetcode) <br> 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) <br> List of Computer Science courses with video lectures.
 * [basic-computer-games](https://github.com/coding-horror/basic-computer-games) <br> An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages.
+* [desktop](https://github.com/desktop/desktop) <br> Simple collaboration from your desktop.
+* [openpilot](https://github.com/commaai/openpilot) <br> openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 
 ## Mathematics
 
