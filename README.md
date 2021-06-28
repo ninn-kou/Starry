@@ -89,6 +89,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days) <br> Python - 100天从新手到大师。
 * [**macOCR**](https://github.com/schappim/macOCR) <br> Get any text on your screen into your clipboard.
 * [**slidev**](https://github.com/slidevjs/slidev) <br> Presentation Slides for Developers (Beta) <sli.dev>
+* [**acmart**](https://github.com/borisveytsman/acmart) <br> ACM consolidated LaTeX styles.
 
 ## Research
 
