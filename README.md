@@ -94,6 +94,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ## Research
 
 * [**birankr**](https://github.com/BrianAronson/birankr) <br> CRAN package for estimating various rank (centrality) measures of nodes in bipartite graphs (two-mode networks).
+* [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> Implementation of the paper *Centralities of Nodes and Influences of Layers in Large Multiplex Networks* in MATLAB.
 * [**NLP-Conferences-Code**](https://github.com/yizhen20133868/NLP-Conferences-Code) <br> NLP-Conferences-Code (ACL、EMNL、NAACL、COLING、AAAI、IJCAI).
 * [**SpellGCN**](https://github.com/ACL2020SpellGCN/SpellGCN) <br> SpellGCN <arxiv.org/abs/2004.14166>
 
