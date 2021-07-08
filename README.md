@@ -33,7 +33,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
     * [Tutorials, Books, Learning Notes and Other Resources](#tutorials-books-learning-notes-and-other-resources)
       * [Learning Notes](#learning-notes)
       * [Self\-learning Guidelines](#self-learning-guidelines)
-      * [Styles](#Styles)
+      * [Interview](#interview)
+      * [Styles](#styles)
   * [Open\-source Software](#open-source-software)
   * [Tools and Applications](#tools-and-applications)
   * [Discovering The News](#discovering-the-news)
@@ -50,15 +51,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**flappy-fly-bird**](https://github.com/jVirus/flappy-fly-bird) <br> 🐦 Flappy Bird reincarnation (Swift 5.3, GameplayKit, SpriteKit, iOS 12).
 * [**si78c**](https://github.com/loadzero/si78c) <br> si78c is a memory accurate reimplementation of Space Invaders in C.
 * [**system-design-primer**](https://github.com/donnemartin/system-design-primer) <br> Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-* [**black**](https://github.com/psf/black) <br> The uncompromising Python code formatter.
 * [**You-Dont-Need-JavaScript**](https://github.com/you-dont-need/You-Dont-Need-JavaScript) <br> CSS is powerful, you can do a lot of things without JS.
 * [**basic-computer-games**](https://github.com/coding-horror/basic-computer-games) <br> An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages.
-* [**photoprism**](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
-* [**awesome-interview-questions**](https://github.com/DopplerHQ/awesome-interview-questions) <br> A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 * [**awesome-github-profile-readme**](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <br> 😎 A curated list of awesome Github Profile READMEs. 📝 <awesomegithubprofile.tech/>
 * [**graphics-workshop**](https://github.com/ekzhang/graphics-workshop) <br> Learn computer graphics by writing GPU shaders!
-* [**flask**](https://github.com/pallets/flask) <br> The Python micro framework for building web applications. <flask.palletsprojects.com>
-* [**numpy**](https://github.com/numpy/numpy) <br> The fundamental package for scientific computing with Python. <numpy.org>
 
 ## Research
 
@@ -217,6 +213,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**TeachYourselfCS-CN**](https://github.com/keithnull/TeachYourselfCS-CN) <br> TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS <https://teachyourselfcs.com/>
 * [**Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners) <br> 24 Lessons, 12 Weeks, Get Started as a Web Developer.
 
+#### Interview
+
+* [**awesome-interview-questions**](https://github.com/DopplerHQ/awesome-interview-questions) <br> A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+
 #### Styles
 
 * [**art-of-readme**](https://github.com/noffle/art-of-readme) <br> 💌 Things I've learned about writing good READMEs.
@@ -235,6 +235,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**jupyter**](https://github.com/jupyter/jupyter) <br> [**GitHub Wiki**](https://github.com/jupyter/jupyter/wiki) [**Web Page**](https://jupyter.org) Jupyter metapackage for installation, docs and chat.
 * [**omi**](https://github.com/Tencent/omi) <br> Front End Cross-Frameworks Framework * 前端跨框架跨平台框架.
 * [**OpenEmu**](https://github.com/OpenEmu/OpenEmu) <br> 🕹 Retro video game emulation for macOS.
+* [**photoprism**](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
 * [**tigervnc**](https://github.com/TigerVNC/tigervnc) <br> High performance, multi-platform VNC client and server.
 * [**vscode**](https://github.com/microsoft/vscode) <br> Visual Studio Code <https://code.visualstudio.com>
 * [**youtube-dl**](https://github.com/ytdl-org/youtube-dl) <br> Command-line program to download videos from YouTube.com and other video sites.
@@ -243,14 +244,17 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) <br> Interactive Online Platform that Visualizes Algorithms from Code.
 * [**badges**](https://github.com/boennemann/badges) <br> 🎴 Readme Badges – Gotta catch 'em all.
+* [**black**](https://github.com/psf/black) <br> The uncompromising Python code formatter.
 * [**ComicBook**](https://github.com/lossme/ComicBook) <br> 漫画爬虫、漫画下载工具、图集下载工具、漫画API，支持腾讯漫画、哔哩哔哩漫画、有妖气漫画、快看漫画、漫画柜等站点。
 * [**desktop**](https://github.com/desktop/desktop) <br> Simple collaboration from your desktop.
+* [**flask**](https://github.com/pallets/flask) <br> The Python micro framework for building web applications. <flask.palletsprojects.com>
 * [**github-markdown-toc**](https://github.com/ekalinin/github-markdown-toc) <br> Easy TOC creation for GitHub README.md.
 * [**httprunner**](https://github.com/httprunner/httprunner) <br> One-stop solution for HTTP(S) testing.
 * [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
 * [**linguist**](https://github.com/github/linguist) <br> Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 * [**logoly**](https://github.com/bestony/logoly) <br> A Pornhub Flavour Logo Generator.
 * [**macOCR**](https://github.com/schappim/macOCR) <br> Get any text on your screen into your clipboard.
+* [**numpy**](https://github.com/numpy/numpy) <br> The fundamental package for scientific computing with Python. <numpy.org>
 * [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) <br> 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 * [**setup-ipsec-vpn**](https://github.com/hwdsl2/setup-ipsec-vpn) <br> Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
 * [**slidev**](https://github.com/slidevjs/slidev) <br> Presentation Slides for Developers (Beta) <sli.dev>
