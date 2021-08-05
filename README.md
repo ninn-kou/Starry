@@ -57,6 +57,27 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 --------------------------------------------------------------------------------
 
+## New
+
+* [UTM](https://github.com/utmapp/UTM) <br> Virtual machines for iOS. <https://getutm.app/>
+* [Psyduck](https://github.com/SmartKeyerror/Psyduck) <br> Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计。
+* [MultiVERSE](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
+* [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) <br> Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test. <https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/>
+* [julia](https://github.com/JuliaLang/julia) <br> The Julia Programming Language. <https://julialang.org/>
+* [numpy-100](https://github.com/rougier/numpy-100) <br> 100 numpy exercises (with solutions).
+* [IMGUR5K-Handwriting-Dataset](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset) <br> IMGUR5K handwriting set. It is a handwritten in-the-wild dataset, which contains challenging real world handwritten samples from different writers.The dataset is shared as a set of image urls with annotations. This code downloads the images and verifies the hash to the image to avoid data contamination.
+* [learn-python](https://github.com/trekhleb/learn-python) <br> 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* [acwj](https://github.com/DoctorWkt/acwj) <br> A Compiler Writing Journey.
+* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) <br> aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+* [design_patterns](https://github.com/me115/design_patterns) <br> 图说设计模式。<https://design-patterns.readthedocs.io/zh_CN/latest/index.html#>
+* [Apollo-11](https://github.com/chrislgarry/Apollo-11) <br> Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+* [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) <br> 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) <br> A HTML5/JavaScript multiplayer game experiment.
+* [uno](https://github.com/unoplatform/uno) <br> Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. <https://platform.uno/>
+* [OpenTTD](https://github.com/OpenTTD/OpenTTD) <br> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. <https://www.openttd.org/>
+
+--------------------------------------------------------------------------------
+
 ## Part 1: Codes/Sources
 
 ### 1.1 Researching
