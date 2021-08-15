@@ -75,6 +75,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) <br> A HTML5/JavaScript multiplayer game experiment.
 * [uno](https://github.com/unoplatform/uno) <br> Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. <https://platform.uno/>
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) <br> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. <https://www.openttd.org/>
+* [PyBoy](https://github.com/Baekalfen/PyBoy) <br> Game Boy emulator written in Python.
+* [mgba](https://github.com/mgba-emu/mgba) <br> mGBA Game Boy Advance Emulator. <https://mgba.io/>
+* [coffee-gb](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
 
 --------------------------------------------------------------------------------
 
