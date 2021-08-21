@@ -62,7 +62,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## New
 
-
+* [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
+* [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
+* [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
+* [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
 
 --------------------------------------------------------------------------------
 
