@@ -26,7 +26,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
   * [📏 1\.10 Mathematics](#110-mathematics)
     * [Linear Algebra](#linear-algebra)
     * [Numerical Methods](#numerical-methods)
+    * [Statistics](#statistics)
   * [📋 1\.11 Templates](#111-templates)
+  * [🚀 1\.12 Marvelous](#112-marvelous)
 * [⭐️ Part 2: Non\-codes Tutorials](#part-2-non-codes-tutorials)
   * [✨ 2\.1 Programming Languages](#21-programming-languages)
     * [C](#c)
@@ -38,6 +40,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
   * [✨ 2\.2 Data Structures and Algorithms](#22-data-structures-and-algorithms)
   * [✨ 2\.3 Learning via Projects Building](#23-learning-via-projects-building)
   * [✨ 2\.4 Aspects Guides and $PATH](#24-aspects-guides-and-path)
+    * [Compilers](#compilers)
     * [Object\-oriented Programming](#object-oriented-programming)
     * [System Design](#system-design)
     * [Video Games](#video-games)
@@ -59,25 +62,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ## New
 
-* [**UTM**](https://github.com/utmapp/UTM) <br> Virtual machines for iOS. <https://getutm.app/>
-* [**Psyduck**](https://github.com/SmartKeyerror/Psyduck) <br> Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计。
-* [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
-* [**linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) <br> Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test. <https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/>
-* [**julia**](https://github.com/JuliaLang/julia) <br> The Julia Programming Language. <https://julialang.org/>
-* [**numpy-100**](https://github.com/rougier/numpy-100) <br> 100 numpy exercises (with solutions).
-* [**IMGUR5K-Handwriting-Dataset**](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset) <br> IMGUR5K handwriting set. It is a handwritten in-the-wild dataset, which contains challenging real world handwritten samples from different writers.The dataset is shared as a set of image urls with annotations. This code downloads the images and verifies the hash to the image to avoid data contamination.
-* [**learn-python**](https://github.com/trekhleb/learn-python) <br> 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-* [**acwj**](https://github.com/DoctorWkt/acwj) <br> A Compiler Writing Journey.
-* [**Probabilistic-Programming-and-Bayesian-Methods-for-Hackers**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) <br> aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
-* [**design_patterns**](https://github.com/me115/design_patterns) <br> 图说设计模式。<https://design-patterns.readthedocs.io/zh_CN/latest/index.html#>
-* [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) <br> Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-* [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) <br> 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* [**BrowserQuest**](https://github.com/mozilla/BrowserQuest) <br> A HTML5/JavaScript multiplayer game experiment.
-* [**uno**](https://github.com/unoplatform/uno) <br> Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. <https://platform.uno/>
-* [**OpenTTD**](https://github.com/OpenTTD/OpenTTD) <br> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. <https://www.openttd.org/>
-* [**PyBoy**](https://github.com/Baekalfen/PyBoy) <br> Game Boy emulator written in Python.
-* [**mgba**](https://github.com/mgba-emu/mgba) <br> mGBA Game Boy Advance Emulator. <https://mgba.io/>
-* [**coffee-gb**](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
+
 
 --------------------------------------------------------------------------------
 
@@ -87,7 +72,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**birankr**](https://github.com/BrianAronson/birankr) <br> CRAN package for estimating various rank (centrality) measures of nodes in bipartite graphs (two-mode networks).
 * [**FakeNewsNet**](https://github.com/KaiDMML/FakeNewsNet) <br> This is a dataset for fake news detection research Resources.
+* [**IMGUR5K-Handwriting-Dataset**](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset) <br> IMGUR5K handwriting set. It is a handwritten in-the-wild dataset, which contains challenging real world handwritten samples from different writers.The dataset is shared as a set of image urls with annotations. This code downloads the images and verifies the hash to the image to avoid data contamination.
 * [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> Implementation of the paper *Centralities of Nodes and Influences of Layers in Large Multiplex Networks* in MATLAB.
+* [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
 * [**pwc**](https://github.com/zziz/pwc) <br> Papers with code. Sorted by stars. Updated weekly. *Note: This repo was not maintained anymore after 2018.*
 
 ### 1.2 Tools
@@ -105,6 +92,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) <br> 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 * [**slidev**](https://github.com/slidevjs/slidev) <br> Presentation Slides for Developers (Beta) <sli.dev>
 * [**thefuck**](https://github.com/nvbn/thefuck) <br> Magnificent app which corrects your previous console command.
+* [**UTM**](https://github.com/utmapp/UTM) <br> Virtual machines for iOS. <https://getutm.app/>
 * [**vscode-math-to-image**](https://github.com/TeamMeow/vscode-math-to-image) <br> 📐 Render LaTeX math equations in any Markdown file!
 * [**youtube-dl**](https://github.com/ytdl-org/youtube-dl) <br> Command-line program to download videos from YouTube.com and other video sites.
 * [**zdog**](https://github.com/metafizzy/zdog) <br> Flat, round, designer-friendly pseudo-3D engine for canvas & SVG.
@@ -121,6 +109,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**omi**](https://github.com/Tencent/omi) <br> Front End Cross-Frameworks Framework * 前端跨框架跨平台框架.
 * [**photoprism**](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
 * [**tigervnc**](https://github.com/TigerVNC/tigervnc) <br> High performance, multi-platform VNC client and server.
+* [**uno**](https://github.com/unoplatform/uno) <br> Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. <https://platform.uno/>
 * [**vscode**](https://github.com/microsoft/vscode) <br> Visual Studio Code <https://code.visualstudio.com>
 
 ### 1.4 Artificial Intelligence
@@ -156,6 +145,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**dongbei**](https://github.com/zhanyong-wan/dongbei) <br> 东北方言编程语言。
 * [**go**](https://github.com/golang/go) <br> The Go programming language <golang.org>
+* [**julia**](https://github.com/JuliaLang/julia) <br> The Julia Programming Language. <https://julialang.org/>
 * [**linguist**](https://github.com/github/linguist) <br> Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 * [**SpellGCN**](https://github.com/ACL2020SpellGCN/SpellGCN) <br> SpellGCN <arxiv.org/abs/2004.14166>
 * [**swift**](https://github.com/apple/swift) <br> The Swift Programming Language.
@@ -166,6 +156,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### 1.7 Computer Networks and Web Applications
 
+* [**BrowserQuest**](https://github.com/mozilla/BrowserQuest) <br> A HTML5/JavaScript multiplayer game experiment.
 * [**flask**](https://github.com/pallets/flask) <br> The Python micro framework for building web applications. <flask.palletsprojects.com>
 * [**httprunner**](https://github.com/httprunner/httprunner) <br> One-stop solution for HTTP(S) testing.
 
@@ -176,7 +167,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ### 1.9 Game Developments
 
 * [**ActionRoguelike**](https://github.com/tomlooman/ActionRoguelike) <br> Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020).
+* [**coffee-gb**](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
+* [**mgba**](https://github.com/mgba-emu/mgba) <br> mGBA Game Boy Advance Emulator. <https://mgba.io/>
 * [**OpenEmu**](https://github.com/OpenEmu/OpenEmu) <br> 🕹 Retro video game emulation for macOS.
+* [**OpenTTD**](https://github.com/OpenTTD/OpenTTD) <br> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. <https://www.openttd.org/>
+* [**PyBoy**](https://github.com/Baekalfen/PyBoy) <br> Game Boy emulator written in Python.
 * [**si78c**](https://github.com/loadzero/si78c) <br> si78c is a memory accurate reimplementation of Space Invaders in C.
 * [**workadventure**](https://github.com/thecodingmachine/workadventure) <br> A collaborative web application (virtual office) presented as a 16-bit RPG video game.
 
@@ -191,11 +186,19 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**numpy**](https://github.com/numpy/numpy) <br> The fundamental package for scientific computing with Python. <numpy.org>
 
+#### Statistics
+
+* [**Probabilistic-Programming-and-Bayesian-Methods-for-Hackers**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) <br> aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+
 ### 1.11 Templates
 
 * [**acmart**](https://github.com/borisveytsman/acmart) <br> ACM consolidated LaTeX styles.
 * [**Awesome-CV**](https://github.com/posquit0/Awesome-CV) <br> 📄 Awesome CV is LaTeX template for your outstanding job application.
 * [**online-cv**](https://github.com/sharu725/online-cv) <br> A minimal Jekyll Theme to host your resume (CV). <webjeda.com/online-cv/>
+
+### 1.12 Marvelous
+
+* [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) <br> Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 --------------------------------------------------------------------------------
 
@@ -213,6 +216,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**30-Days-Of-Python**](https://github.com/Asabeneh/30-Days-Of-Python) <br> 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
 * [**awesome-python**](https://github.com/vinta/awesome-python) <br> A curated list of awesome Python frameworks, libraries, software and resources.
 * [**learn_python3_spider**](https://github.com/wistbean/learn_python3_spider) <br> python爬虫教程系列，从0到1学习python爬虫。
+* [**learn-python**](https://github.com/trekhleb/learn-python) <br> 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 * [**practical-python**](https://github.com/dabeaz-course/practical-python) <br> [**Online**](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) The heart of an instructor-led Python training course used for corporate training and professional development.
 * [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days) <br> Python - 100天从新手到大师。
 * [**python-cheatsheet**](https://github.com/gto76/python-cheatsheet) <br> Comprehensive Python Cheatsheet <gto76.github.io/python-cheatsheet/>
@@ -222,6 +226,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**Python**](https://github.com/TwoWater/Python) <br> 最良心的 Python 教程。
 * [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn) <br> wtfpython的中文翻译。
 * [**wtfpython**](https://github.com/satwikkansal/wtfpython) <br> If you think you know Python, think once more!
+
+##### NumPy
+
+* [**numpy-100**](https://github.com/rougier/numpy-100) <br> 100 numpy exercises (with solutions).
 
 #### Java
 
@@ -272,8 +280,13 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### 2.4 Aspects Guides and $PATH
 
+#### Compilers
+
+* [**acwj**](https://github.com/DoctorWkt/acwj) <br> A Compiler Writing Journey.
+
 #### Object-oriented Programming
 
+* [**design_patterns**](https://github.com/me115/design_patterns) <br> 图说设计模式。<https://design-patterns.readthedocs.io/zh_CN/latest/index.html#>
 * [**design-patterns-explained-with-food**](https://github.com/wesdoyle/design-patterns-explained-with-food) <br> GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies.
 
 #### System Design
@@ -337,6 +350,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) <br> 📚 Freely available programming books.
 * [**missing-semester-cn.github.io**](https://github.com/missing-semester-cn/missing-semester-cn.github.io) <br> the CS missing semester Chinese version. <missing-semester-cn.github.io/>
 * [**missing-semester**](https://github.com/missing-semester/missing-semester) <br> The Missing Semester of Your CS Education. 📚 <missing.csail.mit.edu/>
+* [**Psyduck**](https://github.com/SmartKeyerror/Psyduck) <br> Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计。
 * [**TeachYourselfCS-CN**](https://github.com/keithnull/TeachYourselfCS-CN) <br> TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS <https://teachyourselfcs.com/>
 
 ### 2.6 Interview and Opportunities
@@ -344,6 +358,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**awesome-computer-science-opportunities**](https://github.com/anu0012/awesome-computer-science-opportunities) <br> An awesome list of events and fellowship opportunities for Computer Science students.
 * [**awesome-interview-questions**](https://github.com/DopplerHQ/awesome-interview-questions) <br> A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 * [**coding-interview-university**](https://github.com/jwasham/coding-interview-university) <br> A complete computer science study plan to become a software engineer.
+* [**linkedin-skill-assessments-quizzes**](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) <br> Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test. <https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/>
 
 ### 2.7 Code Styles
 
@@ -377,3 +392,4 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) <br> Chinese copywriting guidelines for better written communication／中文文案排版指北.
 * [**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) <br> The most comprehensive database of Chinese poetry. 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 * [**ChineseBQB**](https://github.com/zhaoolee/ChineseBQB) <br> Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+* [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) <br> 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
