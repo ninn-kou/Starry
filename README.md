@@ -66,6 +66,14 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
 * [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
+* [**colah.github.io**](https://github.com/colah/colah.github.io) <br> colah's blog: <http://colah.github.io/>.
+* [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
+* [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
+* [**zphisher**](https://github.com/htr-tech/zphisher) <br> An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit!
+* [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
+* [**Java**](https://github.com/TheAlgorithms/Java) <br> All Algorithms implemented in Java.
+* [**Algorithms**](https://github.com/williamfiset/Algorithms) <br> A collection of algorithms and data structures.
+* [**Jupyter**](https://github.com/TheAlgorithms/Jupyter) <br> The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
 
 --------------------------------------------------------------------------------
 
