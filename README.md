@@ -75,6 +75,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**Algorithms**](https://github.com/williamfiset/Algorithms) <br> A collection of algorithms and data structures.
 * [**Jupyter**](https://github.com/TheAlgorithms/Jupyter) <br> The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
 * [**MATLAB-Octave**](https://github.com/TheAlgorithms/MATLAB-Octave) <br> This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
+* [**AArch64_Assembly**](https://github.com/TheAlgorithms/AArch64_Assembly) <br> All Algorithms implemented in AArch64 Assembly.
+* [**awesome-decision-tree-papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) <br> A collection of research papers on decision, classification and regression trees with implementations.
+* [**Mindustry**](https://github.com/Anuken/Mindustry) <br> A sandbox tower defense game. <mindustrygame.github.io>
+* [**lifeRestart**](https://github.com/VickScarlet/lifeRestart) <br> やり直すんだ。そして、次はうまくやる。<liferestart.syaro.io>
+* [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
 
 --------------------------------------------------------------------------------
 
