@@ -65,20 +65,12 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
-* [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
 * [**colah.github.io**](https://github.com/colah/colah.github.io) <br> colah's blog: <http://colah.github.io/>.
 * [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
 * [**zphisher**](https://github.com/htr-tech/zphisher) <br> An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit!
 * [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
-* [**Java**](https://github.com/TheAlgorithms/Java) <br> All Algorithms implemented in Java.
-* [**Algorithms**](https://github.com/williamfiset/Algorithms) <br> A collection of algorithms and data structures.
-* [**Jupyter**](https://github.com/TheAlgorithms/Jupyter) <br> The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
-* [**MATLAB-Octave**](https://github.com/TheAlgorithms/MATLAB-Octave) <br> This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
-* [**AArch64_Assembly**](https://github.com/TheAlgorithms/AArch64_Assembly) <br> All Algorithms implemented in AArch64 Assembly.
 * [**awesome-decision-tree-papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) <br> A collection of research papers on decision, classification and regression trees with implementations.
-* [**Mindustry**](https://github.com/Anuken/Mindustry) <br> A sandbox tower defense game. <mindustrygame.github.io>
-* [**lifeRestart**](https://github.com/VickScarlet/lifeRestart) <br> やり直すんだ。そして、次はうまくやる。<liferestart.syaro.io>
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
 
 --------------------------------------------------------------------------------
@@ -105,6 +97,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
 * [**logoly**](https://github.com/bestony/logoly) <br> A Pornhub Flavour Logo Generator.
 * [**manim**](https://github.com/3b1b/manim) <br> Animation engine for explanatory math videos.
+* [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
 * [**mathquill**](https://github.com/mathquill/mathquill) <br> Easily type math in your webapp.
 * [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) <br> 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 * [**slidev**](https://github.com/slidevjs/slidev) <br> Presentation Slides for Developers (Beta) <sli.dev>
@@ -185,7 +178,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**ActionRoguelike**](https://github.com/tomlooman/ActionRoguelike) <br> Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020).
 * [**coffee-gb**](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
+* [**lifeRestart**](https://github.com/VickScarlet/lifeRestart) <br> やり直すんだ。そして、次はうまくやる。<liferestart.syaro.io>
 * [**mgba**](https://github.com/mgba-emu/mgba) <br> mGBA Game Boy Advance Emulator. <https://mgba.io/>
+* [**Mindustry**](https://github.com/Anuken/Mindustry) <br> A sandbox tower defense game. <mindustrygame.github.io>
 * [**OpenEmu**](https://github.com/OpenEmu/OpenEmu) <br> 🕹 Retro video game emulation for macOS.
 * [**OpenTTD**](https://github.com/OpenTTD/OpenTTD) <br> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. <https://www.openttd.org/>
 * [**PyBoy**](https://github.com/Baekalfen/PyBoy) <br> Game Boy emulator written in Python.
@@ -268,11 +263,15 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### 2.2 Data Structures and Algorithms
 
+* [**AArch64_Assembly**](https://github.com/TheAlgorithms/AArch64_Assembly) <br> All Algorithms implemented in AArch64 Assembly.
 * [**algorithm-base**](https://github.com/chefyuan/algorithm-base) <br> 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 * [**algorithm-pattern**](https://github.com/greyireland/algorithm-pattern) <br> 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+* [**Algorithms**](https://github.com/williamfiset/Algorithms) <br> A collection of algorithms and data structures.
 * [**C**](https://github.com/TheAlgorithms/C) <br> [Website](https://thealgorithms.github.io/C/) Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 * [**fucking-algorithm**](https://github.com/labuladong/fucking-algorithm) <br> [GitBook](https://labuladong.gitbook.io/algo/) 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+* [**Java**](https://github.com/TheAlgorithms/Java) <br> All Algorithms implemented in Java.
 * [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) <br> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [**Jupyter**](https://github.com/TheAlgorithms/Jupyter) <br> The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
 * [**Learn-Algorithms**](https://github.com/nonstriater/Learn-Algorithms) <br> 算法学习笔记。
 * [**LeetCode-Go**](https://github.com/halfrost/LeetCode-Go) <br> [LeetCode Cookbook](https://books.halfrost.com/leetcode/) ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 * [**leetcode-master**](https://github.com/youngyangyang04/leetcode-master) <br> LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -281,6 +280,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**leetcode**](https://github.com/doocs/leetcode) <br> 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 * [**leetcode**](https://github.com/soulmachine/leetcode) <br> LeetCode题解，151道题完整版。
 * [**LeetCodeAnimation**](https://github.com/MisterBooo/LeetCodeAnimation) <br> Demonstrate all the questions on LeetCode in the form of animation./用动画的形式呈现解LeetCode题目的思路。
+* [**MATLAB-Octave**](https://github.com/TheAlgorithms/MATLAB-Octave) <br> This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
 * [**Python**](https://github.com/TheAlgorithms/Python) <br> All Algorithms implemented in Python.
 * [**The-Art-Of-Programming-By-July**](https://github.com/julycoding/The-Art-Of-Programming-By-July) <br> 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售。
 
