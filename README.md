@@ -54,7 +54,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
   * [✨ 2\.5 Comprehensive Computer Science](#25-comprehensive-computer-science)
   * [✨ 2\.6 Interview and Opportunities](#26-interview-and-opportunities)
   * [✨ 2\.7 Code Styles](#27-code-styles)
-  * [✨ 2\.8 Student Learning Notes](#28-student-learning-notes)
+  * [✨ 2\.8 2.8 Blogs and Learning Notes](#28-blogs-and-learning-notes)
   * [✨ 2\.9 News and Forums](#29-news-and-forums)
 * [⭐️ Part 3: Computer Irrelevant Repos](#part-3-computer-irrelevant-repos)
 
@@ -64,13 +64,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
-* [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
-* [**colah.github.io**](https://github.com/colah/colah.github.io) <br> colah's blog: <http://colah.github.io/>.
 * [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
-* [**zphisher**](https://github.com/htr-tech/zphisher) <br> An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit!
 * [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
-* [**awesome-decision-tree-papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) <br> A collection of research papers on decision, classification and regression trees with implementations.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
 
 --------------------------------------------------------------------------------
@@ -79,11 +75,13 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### 1.1 Researching
 
+* [**awesome-decision-tree-papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) <br> A collection of research papers on decision, classification and regression trees with implementations.
 * [**birankr**](https://github.com/BrianAronson/birankr) <br> CRAN package for estimating various rank (centrality) measures of nodes in bipartite graphs (two-mode networks).
 * [**FakeNewsNet**](https://github.com/KaiDMML/FakeNewsNet) <br> This is a dataset for fake news detection research Resources.
 * [**IMGUR5K-Handwriting-Dataset**](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset) <br> IMGUR5K handwriting set. It is a handwritten in-the-wild dataset, which contains challenging real world handwritten samples from different writers.The dataset is shared as a set of image urls with annotations. This code downloads the images and verifies the hash to the image to avoid data contamination.
 * [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> Implementation of the paper *Centralities of Nodes and Influences of Layers in Large Multiplex Networks* in MATLAB.
 * [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
+* [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
 * [**pwc**](https://github.com/zziz/pwc) <br> Papers with code. Sorted by stars. Updated weekly. *Note: This repo was not maintained anymore after 2018.*
 
 ### 1.2 Tools
@@ -335,6 +333,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 #### Reverse Engineering
 
 * [**Reverse-Engineering**](https://github.com/mytechnotalent/Reverse-Engineering) <br> A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+* [**zphisher**](https://github.com/htr-tech/zphisher) <br> An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit!
 
 #### Regex
 
@@ -382,13 +381,14 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**naming-cheatsheet**](https://github.com/kettanaito/naming-cheatsheet) <br> Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 * [**state-of-the-art-shitcode**](https://github.com/trekhleb/state-of-the-art-shitcode) <br> 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode.
 
-### 2.8 Student Learning Notes
+### 2.8 Blogs and Learning Notes
 
-* [**Lux**](https://github.com/flying-yogurt/Lux) <br> 📖 My summaries and notes for Computer Science, Mathematics and more science relevant contents. For my CS undergraduate career, redirect to the repository "Unilife-CS-Backup".
 * [**cam-notes**](https://github.com/dalcde/cam-notes) <br> [**Blog**](http://dec41.user.srcf.net/) My Cambridge Lecture Notes.
+* [**colah.github.io**](https://github.com/colah/colah.github.io) <br> colah's blog: <http://colah.github.io/>.
 * [**Connor McLeod**](https://github.com/con-mcleod) <br> A UNSW EECS student's GitHub page.
 * [**Hillary Chan**](https://github.com/hillaryychan) <br> A UNSW student's GitHub page.
 * [**Luka Kerr**](https://github.com/lukakerr) <br> A UNSW software engineering student's GitHub page.
+* [**Lux**](https://github.com/flying-yogurt/Lux) <br> 📖 My summaries and notes for Computer Science, Mathematics and more science relevant contents. For my CS undergraduate career, redirect to the repository "Unilife-CS-Backup".
 * [**YAWEN LUO**](https://github.com/YawenRiva) <br> A UNSW student's GitHub page.
 
 ### 2.9 News and Forums
