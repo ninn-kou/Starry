@@ -68,6 +68,23 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
 * [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
+* [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook) <br> Python Data Science Handbook: full text in Jupyter Notebooks <https://jakevdp.github.io/PythonDataScienceHandbook/>
+* [**DBMS-Indexology**](https://github.com/yingjunwu/DBMS-Indexology) <br> A Collection of Papers on Database Index Structures.
+* [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
+* [**rpi4-osdev**](https://github.com/isometimes/rpi4-osdev) <br> Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4 <https://www.rpi4os.com/>
+* [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
+* [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
+* [**MUSAE**](https://github.com/benedekrozemberczki/MUSAE) <br> The reference implementation of "Multi-scale Attributed Node Embedding". (Journal of Complex Networks 2021) <https://karateclub.readthedocs.io/>
+* [**datasets**](https://github.com/benedekrozemberczki/datasets) <br> A repository of pretty cool datasets that I collected for network science and machine learning research.
+* [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
+* [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) <br> Fish shell like syntax highlighting for Zsh.
+* [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) <br> Fish-like autosuggestions for zsh.
+* [**dracula-theme**](https://github.com/dracula/dracula-theme) <br> 🧛🏻‍♂️ One theme. All platforms. <https://draculatheme.com/>
+* [**OI-wiki**](https://github.com/OI-wiki/OI-wiki) <br> 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）<https://oi-wiki.org/>
+* [**pua-lang**](https://github.com/flaneur2020/pua-lang) <br> A dialect of The Monkey Programming Language.
+* [**projected_gan**](https://github.com/autonomousvision/projected_gan) <br> [NeurIPS'21] Projected GANs Converge Faster
+* [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
+* [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
 
 --------------------------------------------------------------------------------
 
