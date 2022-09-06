@@ -85,6 +85,24 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**projected_gan**](https://github.com/autonomousvision/projected_gan) <br> [NeurIPS'21] Projected GANs Converge Faster
 * [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
 * [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
+* [**aseprite**](https://github.com/aseprite/aseprite) <br> Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* [**2048**](https://github.com/gabrielecirulli/2048) <br> A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
+* [**apachecn-dl-zh**](https://github.com/apachecn/apachecn-dl-zh) <br> ApacheCN 深度学习译文集 <https://dl.apachecn.org/>
+* [**pytest**](https://github.com/pytest-dev/pytest) <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing <https://pytest.org>
+* [**machine-learning-experiments**](https://github.com/trekhleb/machine-learning-experiments) <br> 🤖 Interactive Machine Learning experiments: 🏋️ models training + 🎨 models demo <https://trekhleb.dev/machine-learning-experiments/#/>
+* [**AI-Expert-Roadmap**](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) <br> Roadmap to becoming an Artificial Intelligence Expert in 2022 <https://i.am.ai/roadmap>
+* [*penkesu**](https://github.com/penk/penkesu) <br> Penkesu Computer - A Homebrew Retro-style Handheld PC <https://penkesu.computer/>
+* [**HowToCook**](https://github.com/Anduin2017/HowToCook) <br> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). <https://cook.aiurs.co/>
+* [**videos**](https://github.com/3b1b/videos) <br> Code for the manim-generated scenes used in 3blue1brown videos.
+* [**transferlearning**](https://github.com/jindongwang/transferlearning) <br> Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials. <http://transferlearning.xyz/>
+* [**TypeScript**](https://github.com/microsoft/TypeScript) <br> TypeScript is a superset of JavaScript that compiles to clean JavaScript output. <https://www.typescriptlang.org/>
+* [**100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code) <br> 100 Days of ML Coding.
+* [**YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot) <br> 🎬 人人影视bot，完全对接人人影视全部无删减资源 <https://yyets.dmesg.app/>
+* [**grafana**](https://github.com/grafana/grafana) <br> The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. <https://grafana.com/>
+* [**a32nx**](https://github.com/flybywiresim/a32nx) <br> The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. <https://flybywiresim.com/>
+* [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all <https://microsoft.github.io/ML-For-Beginners/>
+* [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks <https://apple.github.io/ml-cvnets/>
+* [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel <https://sel4.systems/>
 
 --------------------------------------------------------------------------------
 
