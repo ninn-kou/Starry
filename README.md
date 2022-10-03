@@ -97,12 +97,18 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**transferlearning**](https://github.com/jindongwang/transferlearning) <br> Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials. <http://transferlearning.xyz/>
 * [**TypeScript**](https://github.com/microsoft/TypeScript) <br> TypeScript is a superset of JavaScript that compiles to clean JavaScript output. <https://www.typescriptlang.org/>
 * [**100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code) <br> 100 Days of ML Coding.
-* [**YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot) <br> 🎬 人人影视bot，完全对接人人影视全部无删减资源 <https://yyets.dmesg.app/>
+* [**YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot) <br> 🎬 人人影视bot，完全对接人人影视全部无删减资源。 <https://yyets.dmesg.app/>
 * [**grafana**](https://github.com/grafana/grafana) <br> The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. <https://grafana.com/>
 * [**a32nx**](https://github.com/flybywiresim/a32nx) <br> The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. <https://flybywiresim.com/>
-* [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all <https://microsoft.github.io/ML-For-Beginners/>
-* [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks <https://apple.github.io/ml-cvnets/>
-* [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel <https://sel4.systems/>
+* [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all. <https://microsoft.github.io/ML-For-Beginners/>
+* [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks. <https://apple.github.io/ml-cvnets/>
+* [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel. <https://sel4.systems/>
+* [**l4v**](https://github.com/seL4/l4v) <br> seL4 specification and proofs.
+
+* [**DOOM**](https://github.com/id-Software/DOOM) <br> DOOM Open Source Release.
+* [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
+* [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
+* [**Complex-Network**](https://github.com/LiuChuang0059/Complex-Network) <br> 复杂网络研究资源整理和基础知识学习。
 
 --------------------------------------------------------------------------------
 
