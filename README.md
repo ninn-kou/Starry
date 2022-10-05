@@ -109,6 +109,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
 * [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
 * [**Complex-Network**](https://github.com/LiuChuang0059/Complex-Network) <br> 复杂网络研究资源整理和基础知识学习。
+* [**GNNPapers**](https://github.com/thunlp/GNNPapers) <br> Must-read papers on graph neural networks (GNN).
+* [**Alaska**](https://github.com/manlius/Alaska) <br> Multiplex network data used in the paper "Multiplex social ecological network analysis reveals how social changes affect community robustness more than resource depletion".
+* [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> This repository comprizes all the MATLAB files implementing the MultiRank algorithm to rank nodes and layers in large multiplex networks.
+* [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
+* [**The-Art-of-Linear-Algebra**](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) <br> Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
 --------------------------------------------------------------------------------
 
