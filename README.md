@@ -114,6 +114,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> This repository comprizes all the MATLAB files implementing the MultiRank algorithm to rank nodes and layers in large multiplex networks.
 * [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
 * [**The-Art-of-Linear-Algebra**](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) <br> Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
+* [**pywal**](https://github.com/dylanaraps/pywal) <br> 🎨 Generate and change color-schemes on the fly.
+* [**learnxinyminutes-docs**](https://github.com/adambard/learnxinyminutes-docs) <br> Code documentation written as code! How novel and totally my idea!
+* [**IguanaTex**](https://github.com/Jonathan-LeRoux/IguanaTex) <br> A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac.
+* [**stack**](https://github.com/commercialhaskell/stack) <br> The Haskell Tool Stack.
+* [**chibicc**](https://github.com/rui314/chibicc) <br> A small C compiler.
 
 --------------------------------------------------------------------------------
 
