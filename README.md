@@ -29,7 +29,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
     * [Statistics](#statistics)
   * [📋 1\.11 Templates](#111-templates)
   * [🚀 1\.12 Marvelous](#112-marvelous)
-* [⭐️ Part 2: Non\-codes Tutorials](#part-2-non-codes-tutorials)
+* [⭐️ Part 2: Learning Resources](#part-2-learning-resources)
   * [✨ 2\.1 Programming Languages](#21-programming-languages)
     * [C](#c)
     * [Python](#python)
@@ -62,7 +62,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ### New
 
-* [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
@@ -74,7 +73,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**rpi4-osdev**](https://github.com/isometimes/rpi4-osdev) <br> Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4 <https://www.rpi4os.com/>
 * [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
 * [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
-* [**MUSAE**](https://github.com/benedekrozemberczki/MUSAE) <br> The reference implementation of "Multi-scale Attributed Node Embedding". (Journal of Complex Networks 2021) <https://karateclub.readthedocs.io/>
 * [**datasets**](https://github.com/benedekrozemberczki/datasets) <br> A repository of pretty cool datasets that I collected for network science and machine learning research.
 * [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
 * [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) <br> Fish shell like syntax highlighting for Zsh.
@@ -91,7 +89,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**pytest**](https://github.com/pytest-dev/pytest) <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing <https://pytest.org>
 * [**machine-learning-experiments**](https://github.com/trekhleb/machine-learning-experiments) <br> 🤖 Interactive Machine Learning experiments: 🏋️ models training + 🎨 models demo <https://trekhleb.dev/machine-learning-experiments/#/>
 * [**AI-Expert-Roadmap**](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) <br> Roadmap to becoming an Artificial Intelligence Expert in 2022 <https://i.am.ai/roadmap>
-* [*penkesu**](https://github.com/penk/penkesu) <br> Penkesu Computer - A Homebrew Retro-style Handheld PC <https://penkesu.computer/>
+* [**penkesu**](https://github.com/penk/penkesu) <br> Penkesu Computer - A Homebrew Retro-style Handheld PC <https://penkesu.computer/>
 * [**HowToCook**](https://github.com/Anduin2017/HowToCook) <br> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). <https://cook.aiurs.co/>
 * [**videos**](https://github.com/3b1b/videos) <br> Code for the manim-generated scenes used in 3blue1brown videos.
 * [**transferlearning**](https://github.com/jindongwang/transferlearning) <br> Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials. <http://transferlearning.xyz/>
@@ -104,14 +102,10 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks. <https://apple.github.io/ml-cvnets/>
 * [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel. <https://sel4.systems/>
 * [**l4v**](https://github.com/seL4/l4v) <br> seL4 specification and proofs.
-
 * [**DOOM**](https://github.com/id-Software/DOOM) <br> DOOM Open Source Release.
 * [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
 * [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
 * [**Complex-Network**](https://github.com/LiuChuang0059/Complex-Network) <br> 复杂网络研究资源整理和基础知识学习。
-* [**GNNPapers**](https://github.com/thunlp/GNNPapers) <br> Must-read papers on graph neural networks (GNN).
-* [**Alaska**](https://github.com/manlius/Alaska) <br> Multiplex network data used in the paper "Multiplex social ecological network analysis reveals how social changes affect community robustness more than resource depletion".
-* [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> This repository comprizes all the MATLAB files implementing the MultiRank algorithm to rank nodes and layers in large multiplex networks.
 * [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
 * [**The-Art-of-Linear-Algebra**](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) <br> Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 * [**pywal**](https://github.com/dylanaraps/pywal) <br> 🎨 Generate and change color-schemes on the fly.
@@ -134,6 +128,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
 * [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
 * [**pwc**](https://github.com/zziz/pwc) <br> Papers with code. Sorted by stars. Updated weekly. *Note: This repo was not maintained anymore after 2018.*
+* [**GNNPapers**](https://github.com/thunlp/GNNPapers) <br> Must-read papers on graph neural networks (GNN).
+* [**Alaska**](https://github.com/manlius/Alaska) <br> Multiplex network data used in the paper "Multiplex social ecological network analysis reveals how social changes affect community robustness more than resource depletion".
+* [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> This repository comprizes all the MATLAB files implementing the MultiRank algorithm to rank nodes and layers in large multiplex networks.
+* [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
+* [**MUSAE**](https://github.com/benedekrozemberczki/MUSAE) <br> The reference implementation of "Multi-scale Attributed Node Embedding". (Journal of Complex Networks 2021) <https://karateclub.readthedocs.io/>
 
 #### 1.2 Tools
 
@@ -263,7 +262,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 --------------------------------------------------------------------------------
 
-### Part 2: Non-codes Tutorials
+### Part 2: Learning Resources
 
 #### 2.1 Programming Languages
 
