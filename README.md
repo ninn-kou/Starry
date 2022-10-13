@@ -63,24 +63,19 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ### New
 
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
-* [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
 * [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
 * [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook) <br> Python Data Science Handbook: full text in Jupyter Notebooks <https://jakevdp.github.io/PythonDataScienceHandbook/>
-* [**DBMS-Indexology**](https://github.com/yingjunwu/DBMS-Indexology) <br> A Collection of Papers on Database Index Structures.
 * [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 * [**rpi4-osdev**](https://github.com/isometimes/rpi4-osdev) <br> Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4 <https://www.rpi4os.com/>
 * [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
 * [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
-* [**datasets**](https://github.com/benedekrozemberczki/datasets) <br> A repository of pretty cool datasets that I collected for network science and machine learning research.
 * [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
 * [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) <br> Fish shell like syntax highlighting for Zsh.
 * [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) <br> Fish-like autosuggestions for zsh.
 * [**dracula-theme**](https://github.com/dracula/dracula-theme) <br> 🧛🏻‍♂️ One theme. All platforms. <https://draculatheme.com/>
 * [**OI-wiki**](https://github.com/OI-wiki/OI-wiki) <br> 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）<https://oi-wiki.org/>
-* [**pua-lang**](https://github.com/flaneur2020/pua-lang) <br> A dialect of The Monkey Programming Language.
-* [**projected_gan**](https://github.com/autonomousvision/projected_gan) <br> [NeurIPS'21] Projected GANs Converge Faster
 * [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
 * [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
 * [**aseprite**](https://github.com/aseprite/aseprite) <br> Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -92,27 +87,18 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**penkesu**](https://github.com/penk/penkesu) <br> Penkesu Computer - A Homebrew Retro-style Handheld PC <https://penkesu.computer/>
 * [**HowToCook**](https://github.com/Anduin2017/HowToCook) <br> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). <https://cook.aiurs.co/>
 * [**videos**](https://github.com/3b1b/videos) <br> Code for the manim-generated scenes used in 3blue1brown videos.
-* [**transferlearning**](https://github.com/jindongwang/transferlearning) <br> Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials. <http://transferlearning.xyz/>
-* [**TypeScript**](https://github.com/microsoft/TypeScript) <br> TypeScript is a superset of JavaScript that compiles to clean JavaScript output. <https://www.typescriptlang.org/>
 * [**100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code) <br> 100 Days of ML Coding.
-* [**YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot) <br> 🎬 人人影视bot，完全对接人人影视全部无删减资源。 <https://yyets.dmesg.app/>
 * [**grafana**](https://github.com/grafana/grafana) <br> The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. <https://grafana.com/>
 * [**a32nx**](https://github.com/flybywiresim/a32nx) <br> The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. <https://flybywiresim.com/>
 * [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all. <https://microsoft.github.io/ML-For-Beginners/>
 * [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks. <https://apple.github.io/ml-cvnets/>
-* [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel. <https://sel4.systems/>
-* [**l4v**](https://github.com/seL4/l4v) <br> seL4 specification and proofs.
-* [**DOOM**](https://github.com/id-Software/DOOM) <br> DOOM Open Source Release.
 * [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
 * [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
-* [**Complex-Network**](https://github.com/LiuChuang0059/Complex-Network) <br> 复杂网络研究资源整理和基础知识学习。
 * [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
-* [**The-Art-of-Linear-Algebra**](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) <br> Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 * [**pywal**](https://github.com/dylanaraps/pywal) <br> 🎨 Generate and change color-schemes on the fly.
 * [**learnxinyminutes-docs**](https://github.com/adambard/learnxinyminutes-docs) <br> Code documentation written as code! How novel and totally my idea!
 * [**IguanaTex**](https://github.com/Jonathan-LeRoux/IguanaTex) <br> A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac.
 * [**stack**](https://github.com/commercialhaskell/stack) <br> The Haskell Tool Stack.
-* [**chibicc**](https://github.com/rui314/chibicc) <br> A small C compiler.
 
 --------------------------------------------------------------------------------
 
@@ -120,19 +106,25 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 #### 1.1 Researching
 
+* [**Alaska**](https://github.com/manlius/Alaska) <br> Multiplex network data used in the paper "Multiplex social ecological network analysis reveals how social changes affect community robustness more than resource depletion".
+* [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
 * [**awesome-decision-tree-papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) <br> A collection of research papers on decision, classification and regression trees with implementations.
 * [**birankr**](https://github.com/BrianAronson/birankr) <br> CRAN package for estimating various rank (centrality) measures of nodes in bipartite graphs (two-mode networks).
+* [**Complex-Network**](https://github.com/LiuChuang0059/Complex-Network) <br> 复杂网络研究资源整理和基础知识学习。
+* [**datasets**](https://github.com/benedekrozemberczki/datasets) <br> A repository of pretty cool datasets that I collected for network science and machine learning research.
+* [**DBMS-Indexology**](https://github.com/yingjunwu/DBMS-Indexology) <br> A Collection of Papers on Database Index Structures.
 * [**FakeNewsNet**](https://github.com/KaiDMML/FakeNewsNet) <br> This is a dataset for fake news detection research Resources.
+* [**GNNPapers**](https://github.com/thunlp/GNNPapers) <br> Must-read papers on graph neural networks (GNN).
 * [**IMGUR5K-Handwriting-Dataset**](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset) <br> IMGUR5K handwriting set. It is a handwritten in-the-wild dataset, which contains challenging real world handwritten samples from different writers.The dataset is shared as a set of image urls with annotations. This code downloads the images and verifies the hash to the image to avoid data contamination.
 * [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> Implementation of the paper *Centralities of Nodes and Influences of Layers in Large Multiplex Networks* in MATLAB.
-* [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
-* [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
-* [**pwc**](https://github.com/zziz/pwc) <br> Papers with code. Sorted by stars. Updated weekly. *Note: This repo was not maintained anymore after 2018.*
-* [**GNNPapers**](https://github.com/thunlp/GNNPapers) <br> Must-read papers on graph neural networks (GNN).
-* [**Alaska**](https://github.com/manlius/Alaska) <br> Multiplex network data used in the paper "Multiplex social ecological network analysis reveals how social changes affect community robustness more than resource depletion".
 * [**MultiRank**](https://github.com/ginestrab/MultiRank) <br> This repository comprizes all the MATLAB files implementing the MultiRank algorithm to rank nodes and layers in large multiplex networks.
-* [**annotated_deep_learning_paper_implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations) <br> 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 <nn.labml.ai>
+* [**MultiVERSE**](https://github.com/LPioL/MultiVERSE) <br> Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
 * [**MUSAE**](https://github.com/benedekrozemberczki/MUSAE) <br> The reference implementation of "Multi-scale Attributed Node Embedding". (Journal of Complex Networks 2021) <https://karateclub.readthedocs.io/>
+* [**network-science**](https://github.com/netspractice/network-science) <br> This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university.
+* [**papers-we-love**](https://github.com/papers-we-love/papers-we-love) <br> Papers from the computer science community to read and discuss. <paperswelove.org/>
+* [**projected_gan**](https://github.com/autonomousvision/projected_gan) <br> [NeurIPS'21] Projected GANs Converge Faster
+* [**pwc**](https://github.com/zziz/pwc) <br> Papers with code. Sorted by stars. Updated weekly. *Note: This repo was not maintained anymore after 2018.*
+* [**transferlearning**](https://github.com/jindongwang/transferlearning) <br> Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials. <http://transferlearning.xyz/>
 
 #### 1.2 Tools
 
@@ -153,6 +145,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**UTM**](https://github.com/utmapp/UTM) <br> Virtual machines for iOS. <https://getutm.app/>
 * [**vscode-math-to-image**](https://github.com/TeamMeow/vscode-math-to-image) <br> 📐 Render LaTeX math equations in any Markdown file!
 * [**youtube-dl**](https://github.com/ytdl-org/youtube-dl) <br> Command-line program to download videos from YouTube.com and other video sites.
+* [**YYeTsBot**](https://github.com/tgbot-collection/YYeTsBot) <br> 🎬 人人影视bot，完全对接人人影视全部无删减资源。 <https://yyets.dmesg.app/>
 * [**zdog**](https://github.com/metafizzy/zdog) <br> Flat, round, designer-friendly pseudo-3D engine for canvas & SVG.
 
 #### 1.3 Softwares and Frameworks
@@ -201,12 +194,15 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 #### 1.5 Formal Languages
 
+* [**chibicc**](https://github.com/rui314/chibicc) <br> A small C compiler.
 * [**dongbei**](https://github.com/zhanyong-wan/dongbei) <br> 东北方言编程语言。
 * [**go**](https://github.com/golang/go) <br> The Go programming language <golang.org>
 * [**julia**](https://github.com/JuliaLang/julia) <br> The Julia Programming Language. <https://julialang.org/>
 * [**linguist**](https://github.com/github/linguist) <br> Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+* [**pua-lang**](https://github.com/flaneur2020/pua-lang) <br> A dialect of The Monkey Programming Language.
 * [**SpellGCN**](https://github.com/ACL2020SpellGCN/SpellGCN) <br> SpellGCN <arxiv.org/abs/2004.14166>
 * [**swift**](https://github.com/apple/swift) <br> The Swift Programming Language.
+* [**TypeScript**](https://github.com/microsoft/TypeScript) <br> TypeScript is a superset of JavaScript that compiles to clean JavaScript output. <https://www.typescriptlang.org/>
 
 #### 1.6 Blockchain
 
@@ -220,12 +216,15 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 #### 1.8 Operating Systems
 
+* [**l4v**](https://github.com/seL4/l4v) <br> seL4 specification and proofs.
 * [**linux**](https://github.com/torvalds/linux) <br> Linux kernel source tree.
+* [**seL4**](https://github.com/seL4/seL4) <br> The seL4 microkernel. <https://sel4.systems/>
 
 #### 1.9 Game Developments
 
 * [**ActionRoguelike**](https://github.com/tomlooman/ActionRoguelike) <br> Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020).
 * [**coffee-gb**](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
+* [**DOOM**](https://github.com/id-Software/DOOM) <br> DOOM Open Source Release.
 * [**lifeRestart**](https://github.com/VickScarlet/lifeRestart) <br> やり直すんだ。そして、次はうまくやる。<liferestart.syaro.io>
 * [**mgba**](https://github.com/mgba-emu/mgba) <br> mGBA Game Boy Advance Emulator. <https://mgba.io/>
 * [**Mindustry**](https://github.com/Anuken/Mindustry) <br> A sandbox tower defense game. <mindustrygame.github.io>
@@ -241,6 +240,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**MATH54**](https://github.com/lin-lin/MATH54) <br> 🐻 UC Berkeley Math 54: Linear Algebra & Differential Equations in Spring 2020.
 * [**MIT-Linear-Algebra-Notes**](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) <br> Notes for MIT-Linear-Algebra.
+* [**The-Art-of-Linear-Algebra**](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) <br> Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
 ##### Numerical Methods
 
