@@ -64,11 +64,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
-* [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
 * [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook) <br> Python Data Science Handbook: full text in Jupyter Notebooks <https://jakevdp.github.io/PythonDataScienceHandbook/>
 * [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
-* [**rpi4-osdev**](https://github.com/isometimes/rpi4-osdev) <br> Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4 <https://www.rpi4os.com/>
 * [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
 * [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
 * [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
@@ -79,18 +77,13 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
 * [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
 * [**aseprite**](https://github.com/aseprite/aseprite) <br> Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-* [**2048**](https://github.com/gabrielecirulli/2048) <br> A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
-* [**apachecn-dl-zh**](https://github.com/apachecn/apachecn-dl-zh) <br> ApacheCN 深度学习译文集 <https://dl.apachecn.org/>
 * [**pytest**](https://github.com/pytest-dev/pytest) <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing <https://pytest.org>
 * [**machine-learning-experiments**](https://github.com/trekhleb/machine-learning-experiments) <br> 🤖 Interactive Machine Learning experiments: 🏋️ models training + 🎨 models demo <https://trekhleb.dev/machine-learning-experiments/#/>
 * [**AI-Expert-Roadmap**](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) <br> Roadmap to becoming an Artificial Intelligence Expert in 2022 <https://i.am.ai/roadmap>
 * [**penkesu**](https://github.com/penk/penkesu) <br> Penkesu Computer - A Homebrew Retro-style Handheld PC <https://penkesu.computer/>
-* [**HowToCook**](https://github.com/Anduin2017/HowToCook) <br> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). <https://cook.aiurs.co/>
 * [**videos**](https://github.com/3b1b/videos) <br> Code for the manim-generated scenes used in 3blue1brown videos.
-* [**100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code) <br> 100 Days of ML Coding.
 * [**grafana**](https://github.com/grafana/grafana) <br> The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. <https://grafana.com/>
 * [**a32nx**](https://github.com/flybywiresim/a32nx) <br> The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. <https://flybywiresim.com/>
-* [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all. <https://microsoft.github.io/ML-For-Beginners/>
 * [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks. <https://apple.github.io/ml-cvnets/>
 * [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
 * [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
@@ -135,6 +128,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**Cyberbrain**](https://github.com/laike9m/Cyberbrain) <br> Python debugging, redefined.
 * [**github-markdown-toc**](https://github.com/ekalinin/github-markdown-toc) <br> Easy TOC creation for GitHub README.md.
 * [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
+* [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
 * [**logoly**](https://github.com/bestony/logoly) <br> A Pornhub Flavour Logo Generator.
 * [**manim**](https://github.com/3b1b/manim) <br> Animation engine for explanatory math videos.
 * [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
@@ -183,8 +177,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 ##### Machine Learning
 
+* [**100-Days-Of-ML-Code**](https://github.com/Avik-Jain/100-Days-Of-ML-Code) <br> 100 Days of ML Coding.
+* [**apachecn-dl-zh**](https://github.com/apachecn/apachecn-dl-zh) <br> ApacheCN 深度学习译文集 <https://dl.apachecn.org/>
 * [**machine_learning_beginner**](https://github.com/fengdu78/machine_learning_beginner) <br> 机器学习初学者公众号作品。
 * [**Machine-Learning-Flappy-Bird**](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) <br> Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm.
+* [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) <br> 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all. <https://microsoft.github.io/ML-For-Beginners/>
 * [**WZU-machine-learning-course**](https://github.com/fengdu78/WZU-machine-learning-course) <br> 温州大学《机器学习》课程资料（代码、课件等）。
 
 ##### Natural Language Processing
@@ -222,6 +219,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 #### 1.9 Game Developments
 
+* [**2048**](https://github.com/gabrielecirulli/2048) <br> A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 * [**ActionRoguelike**](https://github.com/tomlooman/ActionRoguelike) <br> Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020).
 * [**coffee-gb**](https://github.com/trekawek/coffee-gb) <br> Gameboy emulator in Java 8.
 * [**DOOM**](https://github.com/id-Software/DOOM) <br> DOOM Open Source Release.
@@ -379,6 +377,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 * [**Linux-Tutorial**](https://github.com/judasn/Linux-Tutorial) <br> 《Java 程序员眼中的 Linux》
 * [**os-tutorial**](https://github.com/cfenollosa/os-tutorial) <br> How to create an OS from scratch.
+* [**rpi4-osdev**](https://github.com/isometimes/rpi4-osdev) <br> Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4 <https://www.rpi4os.com/>
 
 ##### Reverse Engineering
 
@@ -460,3 +459,4 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) <br> The most comprehensive database of Chinese poetry. 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 * [**ChineseBQB**](https://github.com/zhaoolee/ChineseBQB) <br> Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 * [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) <br> 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* [**HowToCook**](https://github.com/Anduin2017/HowToCook) <br> 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). <https://cook.aiurs.co/>
