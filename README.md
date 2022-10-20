@@ -74,7 +74,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) <br> Fish-like autosuggestions for zsh.
 * [**dracula-theme**](https://github.com/dracula/dracula-theme) <br> 🧛🏻‍♂️ One theme. All platforms. <https://draculatheme.com/>
 * [**OI-wiki**](https://github.com/OI-wiki/OI-wiki) <br> 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）<https://oi-wiki.org/>
-* [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
+
 * [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
 * [**aseprite**](https://github.com/aseprite/aseprite) <br> Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [**pytest**](https://github.com/pytest-dev/pytest) <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing <https://pytest.org>
@@ -87,10 +87,8 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**ml-cvnets**](https://github.com/apple/ml-cvnets) <br> CVNets: A library for training computer vision networks. <https://apple.github.io/ml-cvnets/>
 * [**mathematicalpython**](https://github.com/patrickwalls/mathematicalpython) <br> Introduction to Mathematical Computing with Python and Jupyter. <https://patrickwalls.github.io/mathematicalpython>
 * [**awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners) <br> A list of awesome beginners-friendly projects.
-* [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
 * [**pywal**](https://github.com/dylanaraps/pywal) <br> 🎨 Generate and change color-schemes on the fly.
 * [**learnxinyminutes-docs**](https://github.com/adambard/learnxinyminutes-docs) <br> Code documentation written as code! How novel and totally my idea!
-* [**IguanaTex**](https://github.com/Jonathan-LeRoux/IguanaTex) <br> A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac.
 * [**stack**](https://github.com/commercialhaskell/stack) <br> The Haskell Tool Stack.
 
 --------------------------------------------------------------------------------
@@ -129,6 +127,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**github-markdown-toc**](https://github.com/ekalinin/github-markdown-toc) <br> Easy TOC creation for GitHub README.md.
 * [**iTerm2-Color-Schemes**](https://github.com/mbadolato/iTerm2-Color-Schemes) <br> Over 200 terminal color schemes/themes for iTerm/iTerm2.
 * [**lite-xl**](https://github.com/lite-xl/lite-xl) <br> A lightweight text editor written in Lua.
+* [**IguanaTex**](https://github.com/Jonathan-LeRoux/IguanaTex) <br> A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac.
 * [**logoly**](https://github.com/bestony/logoly) <br> A Pornhub Flavour Logo Generator.
 * [**manim**](https://github.com/3b1b/manim) <br> Animation engine for explanatory math videos.
 * [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
@@ -153,6 +152,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**jupyter**](https://github.com/jupyter/jupyter) <br> [**GitHub Wiki**](https://github.com/jupyter/jupyter/wiki) [**Web Page**](https://jupyter.org) Jupyter metapackage for installation, docs and chat.
 * [**omi**](https://github.com/Tencent/omi) <br> Front End Cross-Frameworks Framework * 前端跨框架跨平台框架.
 * [**photoprism**](https://github.com/photoprism/photoprism) <br> About Personal Photo Management powered by Go and Google TensorFlow.
+* [**reveal.js**](https://github.com/hakimel/reveal.js) <br> The HTML Presentation Framework.
 * [**tigervnc**](https://github.com/TigerVNC/tigervnc) <br> High performance, multi-platform VNC client and server.
 * [**uno**](https://github.com/unoplatform/uno) <br> Build Mobile, Desktop and WebAssembly apps with C## and XAML. Today. Open source and professionally supported. <https://platform.uno/>
 * [**vscode**](https://github.com/microsoft/vscode) <br> Visual Studio Code <https://code.visualstudio.com>
@@ -400,6 +400,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ##### Git and Command Line Commands
 
 * [**gitignore**](https://github.com/github/gitignore) <br> A collection of useful .gitignore templates.
+* [**github**](https://github.com/phodal/github) <br> GitHub 漫游指南 - a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. <https://github.phodal.com/>
 * [**linux-command**](https://github.com/jaywcjlove/linux-command) <br> Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
 * [**nocode**](https://github.com/kelseyhightower/nocode) <br> The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) <br> Master the command line, in one page.
