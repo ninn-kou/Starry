@@ -41,6 +41,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
   * [✨ 2\.3 Learning via Projects Building](#23-learning-via-projects-building)
   * [✨ 2\.4 Aspects Guides and $PATH](#24-aspects-guides-and-path)
     * [Compilers](#compilers)
+    * [Data Science](#data-science)
     * [Object\-oriented Programming](#object-oriented-programming)
     * [System Design](#system-design)
     * [Video Games](#video-games)
@@ -65,16 +66,13 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
-* [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook) <br> Python Data Science Handbook: full text in Jupyter Notebooks <https://jakevdp.github.io/PythonDataScienceHandbook/>
 * [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 * [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
-* [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
 * [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
 * [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) <br> Fish shell like syntax highlighting for Zsh.
 * [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) <br> Fish-like autosuggestions for zsh.
 * [**dracula-theme**](https://github.com/dracula/dracula-theme) <br> 🧛🏻‍♂️ One theme. All platforms. <https://draculatheme.com/>
 * [**OI-wiki**](https://github.com/OI-wiki/OI-wiki) <br> 🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）<https://oi-wiki.org/>
-
 * [**svox2**](https://github.com/sxyu/svox2) <br> Plenoxels: Radiance Fields without Neural Networks, Code release WIP
 * [**aseprite**](https://github.com/aseprite/aseprite) <br> Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * [**pytest**](https://github.com/pytest-dev/pytest) <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing <https://pytest.org>
@@ -346,6 +344,11 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ##### Compilers
 
 * [**acwj**](https://github.com/DoctorWkt/acwj) <br> A Compiler Writing Journey.
+
+##### Data Science
+
+* [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook) <br> Python Data Science Handbook: full text in Jupyter Notebooks <https://jakevdp.github.io/PythonDataScienceHandbook/>
+* [**Data-Science-For-Beginners**](https://github.com/microsoft/Data-Science-For-Beginners) <br> 10 Weeks, 20 Lessons, Data Science for All! <https://microsoft.github.io/Data-Science-For-Beginners/#/>
 
 ##### Object-oriented Programming
 
