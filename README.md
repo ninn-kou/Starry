@@ -66,7 +66,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**tenacity**](https://github.com/tenacityteam/tenacity) <br> Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! <tenacityaudio.org>
 * [**AppleNeuralHash2ONNX**](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) <br> Convert Apple NeuralHash model for CSAM Detection to ONNX.
 * [**a-picture-is-worth-a-1000-words**](https://github.com/girliemac/a-picture-is-worth-a-1000-words) <br> I am trying to describe complex matters in simple doodles!
-* [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 * [**copilot-docs**](https://github.com/github/copilot-docs) <br> Documentation for GitHub Copilot <https://copilot.github.com/>
 * [**powerlevel10k**](https://github.com/romkatv/powerlevel10k) <br> A Zsh theme.
 * [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) <br> Fish shell like syntax highlighting for Zsh.
@@ -117,6 +116,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 
 #### 1.2 Tools
 
+* [**algo**](https://github.com/trailofbits/algo) <br> Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 * [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) <br> Interactive Online Platform that Visualizes Algorithms from Code.
 * [**badges**](https://github.com/boennemann/badges) <br> 🎴 Readme Badges – Gotta catch 'em all.
 * [**black**](https://github.com/psf/black) <br> The uncompromising Python code formatter.
@@ -131,6 +131,7 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**manim**](https://github.com/ManimCommunity/manim) <br> A community-maintained Python framework for creating mathematical animations. <www.manim.community>
 * [**mathquill**](https://github.com/mathquill/mathquill) <br> Easily type math in your webapp.
 * [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) <br> 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
+* [**setup-ipsec-vpn**](https://github.com/hwdsl2/setup-ipsec-vpn) <br> Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
 * [**slidev**](https://github.com/slidevjs/slidev) <br> Presentation Slides for Developers (Beta) <sli.dev>
 * [**thefuck**](https://github.com/nvbn/thefuck) <br> Magnificent app which corrects your previous console command.
 * [**UTM**](https://github.com/utmapp/UTM) <br> Virtual machines for iOS. <https://getutm.app/>
@@ -368,7 +369,6 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 ##### Web Developments amd Networks
 
 * [**Become-A-Full-Stack-Web-Developer**](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) <br> Free resources for learning Full Stack Web Development.
-* [**setup-ipsec-vpn**](https://github.com/hwdsl2/setup-ipsec-vpn) <br> Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS.
 * [**Web-Dev-For-Beginners**](https://github.com/microsoft/Web-Dev-For-Beginners) <br> 24 Lessons, 12 Weeks, Get Started as a Web Developer.
 * [**what-happens-when**](https://github.com/alex/what-happens-when) <br> An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
