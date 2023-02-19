@@ -87,6 +87,12 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**pywal**](https://github.com/dylanaraps/pywal) <br> 🎨 Generate and change color-schemes on the fly.
 * [**learnxinyminutes-docs**](https://github.com/adambard/learnxinyminutes-docs) <br> Code documentation written as code! How novel and totally my idea!
 * [**stack**](https://github.com/commercialhaskell/stack) <br> The Haskell Tool Stack.
+* [**star-history**](https://github.com/star-history/star-history) <br> The missing star history graph of GitHub repos - <https://star-history.com>
+* [**hackingtool**](https://github.com/Z4nzu/hackingtool) <br> ALL IN ONE Hacking Tool For Hackers.
+* [**hello-algo**](https://github.com/krahets/hello-algo) <br> 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+* [**hello-algorithm**](https://github.com/geekxh/hello-algorithm) <br> 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
+* [**Reactive-Resume**](https://github.com/AmruthPillai/Reactive-Resume) <br> A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+* [**tuning_playbook**](https://github.com/google-research/tuning_playbook) <br> A playbook for systematically maximizing the performance of deep learning models.
 
 --------------------------------------------------------------------------------
 
