@@ -95,6 +95,9 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**tuning_playbook**](https://github.com/google-research/tuning_playbook) <br> A playbook for systematically maximizing the performance of deep learning models.
 * [**decky-loader**](https://github.com/SteamDeckHomebrew/decky-loader) <br> A plugin loader for the Steam Deck.
 * [**probabilitydistributiontoolbox**](https://github.com/ccanonne/probabilitydistributiontoolbox) <br> Folklore facts on probability distribution learning, testing, and whatever-ing.
+* [**awesome-chatgpt-prompts**](https://github.com/f/awesome-chatgpt-prompts) <br> This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [**d2l-en**](https://github.com/d2l-ai/d2l-en) <br> Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+* [**d2l-zh**](https://github.com/d2l-ai/d2l-zh) <br> 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
 
 --------------------------------------------------------------------------------
 
