@@ -106,6 +106,12 @@ The reasons why I choose these repositories are not only their ✨high stars💫
 * [**wavefunctioncollapse**](https://github.com/marian42/wavefunctioncollapse) <br> Walk through an infinite, procedurally generated city.
 * [**WaveFunctionCollapse**](https://github.com/mxgmn/WaveFunctionCollapse) <br> Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 * [**openai-cookbook**](https://github.com/openai/openai-cookbook) <br> Examples and guides for using the OpenAI API.
+* [**the-algorithm**](https://github.com/twitter/the-algorithm) <br> Source code for Twitter's Recommendation Algorithm.
+* [**ML-Papers-of-the-Week**](https://github.com/dair-ai/ML-Papers-of-the-Week) <br> 🔥Highlighting the top ML papers every week.
+* [**Prompt-Engineering-Guide**](https://github.com/dair-ai/Prompt-Engineering-Guide) <br> 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+* [**segment-anything**](https://github.com/facebookresearch/segment-anything) <br> The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+* [**gpt_academic**](https://github.com/binary-husky/gpt_academic) <br> 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+* [**SciencePlots**](https://github.com/garrettj403/SciencePlots) <br> Matplotlib styles for scientific plotting.
 
 --------------------------------------------------------------------------------
 
